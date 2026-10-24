@@ -1,66 +1,165 @@
-# Production record — copy per film
+# Film record — v2.3
 
-## Brief
+Version / date / scope / current step / next action:
+Original projects and exports preserved:
+Authorization for storyboard credits / polished footage / publication (separate):
 
-Title / version:
-Premise / audience:
-Genre / tone:
-Medium / style:
-Ratio / target runtime:
-Constraints / unchanged approved material:
-Scope (planning, production, revision):
+## Brief and audience hypothesis
 
-## Story anchors
+Premise / audience / genre / tone / medium / ratio / runtime ceiling:
+Particular emotional experience / distinctive appeal:
+Possible reason to share or rewatch (hypothesis):
+Narrated / dialogue-led / visual mode and why:
+Required unchanged text / identity / other constraints:
+Narration requirement comes from the current brief; preserve approved text and voice. Historical Santa narration does not set a default voice for future films.
 
-Desire:
-Visible reason to care:
-Opening dramatic question:
-Obstacle / causal attempts:
-Costly or revealing choice:
-Established setup used in payoff:
-Resolved outcome:
-Final emotional image:
+## Candidate comparison
 
-## Visual and audio bible
+| Premise + opening + payoff | Audience appeal | Main uncertainty | Obvious solution challenge | Feasibility | Select/reject and reason |
+|---|---|---|---|---|---|
 
-Characters (stable descriptions, reference IDs, voice traits):
-Environment geography / screen directions:
-Props (count, owner, condition, state changes):
-Medium / materials / palette / light sources:
-Camera and performance language:
-Sound / music / caption plan:
+Selected want / care / question / resistance / attempts / choice / payoff:
+Setup for essential rules, objects, skills, and relationships:
+STORY_TESTS findings and revisions:
 
-## Beat and shot ledger
+## Viewer information map
 
-One row per shot; add detail below as needed. Calculate planned duration total from actual entries.
+| Beat | Visible/audible evidence | Viewer knows | Unresolved question | Expected outcome | Changed consequence |
+|---|---|---|---|---|---|
 
-| Shot | Story change / feeling | First focus / framing | Entry → action → exit | Dialogue / sound | Planned edited seconds | Reference / job ID | Status / repair |
+## Timed picture-and-sound script
+
+Timing status: ESTIMATED / TEMP PLAYBACK MEASURED.
+
+| In–out seconds | Picture/action | Exact narration/dialogue + speaker | Effects/music/ambience | Viewer expectation/change | Cut/hold reason |
+|---|---|---|---|---|---|
+
+Total sequence duration (include ending; account for overlaps):
+Measurement method / remaining headroom below 60 seconds:
+
+## Visual, voice, and continuity bible
+
+Characters / stable descriptions / reference IDs / voice traits/reference:
+Medium / material / palette / light / performance / camera language:
+Geography / eyelines / screen directions:
+Prop count / owner / condition before and after changes:
+Narrator identity / exact text / audio version / recorded delivery:
+Caption plan / important-picture and UI clearance:
+
+## Required visual-development package
+
+Three distinct opening designs (staging/reveal/viewpoint/scale/relationship) and why each could draw attention:
+Two selected concepts for rough playback / rejection reasons for the other:
+Story-specific visual idea / planned signature image or action:
+Annotated reference/design board location, or documents-only description:
+
+| Dramatic function | Picture/staging | Distance/space/light/motion progression | Script meaning and viewer expectation |
+|---|---|---|---|
+| Opening promise | | | |
+| Development | | | |
+| Choice/climax | | | |
+| Visual payoff | | | |
+
+For EACH storyboard panel:
+- What makes this worth looking at? Name the specific design/action/performance/reveal.
+- What makes the viewer want the next shot? For the final panel: why is this a satisfying ending?
+- First focal point / script fact or emotion / visible evidence / new information / continuity / cut or hold cue.
+- Readable / visually engaging / narratively useful / feasible: record findings separately.
+
+Essential picture-led events / what narration adds rather than duplicates:
+Final image / earlier visual setup / what changed and why it matters:
+Actual phone-size/rough-playback findings and unresolved risks:
+
+## Shot and asset ledger
+
+| Shot | Required story evidence | Entry → action → response → exit | Focus / framing / camera | Generate duration vs intended edited range | Audio line/cue | Reference/job ID/status | Defect/repair |
 |---|---|---|---|---|---|---|---|
-| S01 | | | | | | | |
 
-For each join: movement phase, eyeline, screen direction, prop state, light, focal position, and audio bridge.
+Each join: previous exit/next entry, gaze, action phase, prop state, light/movement direction, audio, actual playback position.
 
-## Development and review record
+## Rough sequence and viewer evidence
 
-- Hook alternatives considered / selection reason:
-- Setup and payoff connected:
-- Causal and emotional progression:
-- Storyboard/animatic method and observed result:
-- Timing method / planned total / headroom:
-- Mobile readability:
-- Shot defects and repairs:
-- Unfinished step / next action:
+Opening A / opening B / selection and reason:
+Rough artifact/version/location, or PAPER ONLY:
+Temporary audio and timing: recorded/measured or estimated:
+Normal-speed sound-on / phone-size / muted findings (separate):
+Fresh viewer supplied/authorized? If none: SELF-REVIEW ONLY, comprehension PROVISIONAL.
+Actual unprompted responses: goal / care / obstacle / expectation / weak moment / payoff:
+Revisions / unresolved limitations / production authorization:
 
-## Export record
+## Claim evidence
 
-Project name / version:
-Export ID / link / status:
-Observed dimensions / aspect ratio:
-Duration / measurement source / precision:
-Strictly under 60 seconds: VERIFIED or UNVERIFIED, with evidence:
-Continuous normal-speed sound-on review of this exact export: COMPLETE or PENDING:
-Visual comprehension / dialogue / joins / continuity / ending findings:
-Remaining limitations:
-Delivery status: review only; publication separately authorized:
+| Claim | Planned evidence | Actual evidence/timecode | Reviewer/method | REVISE / PROVISIONAL / SUPPORTED / N/A | Repair |
+|---|---|---|---|---|---|
 
-“Complete” is an observed status, not a default field value. A new export invalidates the previous export's playback-review status.
+## Edit review
+
+Actual narration present/intelligible/consistent, or PENDING:
+Tighter cut compared? Result or reason not needed:
+Empty intervals removed / purposeful holds retained, with locations:
+Chronological order verified from actual playback positions:
+Creative findings against opening question and payoff:
+Visual attraction / memorable image / visual progression / picture-led events / visual payoff: intended versus observed findings, with timecodes:
+
+## Exact export record
+
+Project/version/export ID/link/completed status:
+Measured duration / source / precision / under-60 result:
+Dimensions / ratio / media evidence:
+Continuous normal-speed sound-on review: COMPLETE or PENDING (who/method/exact export):
+Phone-size / muted / sampled-frame findings (separate):
+Creative approval / unresolved material problems:
+Delivery label: WORKING / REVIEW / APPROVED; never default to approval.
+Publication authorization and status (separate):
+
+Any picture, sound, caption, or encoding change creates a new export record and requires renewed review.
+
+## Required performance and finish evidence
+
+Apply [PERFORMANCE_AND_FINISH.md](PERFORMANCE_AND_FINISH.md). Leave unobserved findings PENDING; narrator-specific N/A requires a reason.
+
+Narration performance brief / viewpoint / emotional progression / pronunciation / exact-text constraints:
+Opening delivery A and B artifact IDs / picture context / listening findings / selected delivery and reason:
+Complete selected narration version / measured timing / naturalness and intelligibility findings:
+Character/expression/key-pose references / prop and geography references:
+Opening/development/climax/payoff color-light keyframes / continuity findings:
+
+| Spoken phrase/cue | Prior viewer knowledge | Picture before/during/after and actual timing | Intended effect | Observed reveal/reaction issue and repair |
+|---|---|---|---|---|
+
+| Join/timecode | Outgoing/incoming source ranges and boundary states | Action/gaze/prop/focal-position continuity | Camera/geography/light | Audio bridge/overlap timing | Cut reason | Normal-speed sound-on finding/repair |
+|---|---|---|---|---|---|---|
+
+Two-shot sample: artifact/version / representative difficulty / actual voice and mix:
+Observed story readability / acting / design / join / speech / picture-sound findings:
+Material defects / repairs / reinspection / READY FOR BULK or PENDING:
+Actual-motion review: identity drift / flicker / feet / contacts / weight / props / expressions / lip sync where applicable:
+
+Dedicated pacing pass artifact/method:
+| Interval | What changes / exact information-read point | Stall, rush, or purposeful hold | Tighter comparison when needed | Selected timing and reason |
+|---|---|---|---|---|
+
+Final mix findings: speech masking / levels by listening / distortion / voice consistency / physical effects / ambience / music and silence:
+Final color/design continuity findings:
+Exact-export creative reviewer / actual continuous playback method / timecoded defects and fixes:
+Unresolved material defects prevent creative approval; pending review remains WORKING/REVIEW. Publication is separately authorized.
+
+## Required smooth-editing record
+
+Apply [SMOOTH_EDITING.md](SMOOTH_EDITING.md).
+
+Approved narrator/performance reused / reason any new audition is necessary:
+Cleaned narration version / actual listening reviewer / retained breath and dramatic pauses:
+Candidate audio gap / observed defect / audio-only repair / resulting picture decision:
+Protected event anchors and preparation/contact/follow-through/reaction:
+Source native cadence / actual retiming factors and reasons / freeze or repeated-frame exceptions:
+
+| Beat / join | Protected action and reaction | Source ranges / final timing | Native speed or justified change | Picture transition and reason | Independent audio edit / bridge | Caption clearance through motion | Normal-speed sound-on observation / reviewer / status |
+|---|---|---|---|---|---|---|---|
+
+Connected setup/action/result/reaction test artifact and actual playback findings (separate from two-shot test):
+Rhythm issue / timecode / breathing-room or tighter comparison / chosen result and reason, or no comparison needed:
+Every-caption-event timing and moving-subject clearance findings:
+Complete last word / visible resolution / purposeful final release:
+Exact-export continuous sound-on reviewer / method / identifier / COMPLETE or PENDING:
+User feedback / scope of any next revision / existing film preserved:

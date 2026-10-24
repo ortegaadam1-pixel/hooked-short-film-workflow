@@ -1,34 +1,34 @@
-# Adapting the workflow
+# Genre and style adaptation — v2
 
-These are development illustrations, not retention-tested scripts or mandatory formulas.
+These examples illustrate development decisions, not audience-tested films or automatic templates.
 
-| Genre | Hook mechanism | Investment | Development | Satisfying resolution |
-|---|---|---|---|---|
-| Comedy | Visible contradiction | Recognizable desire or embarrassment | Attempts compound the problem | Setup returns as an earned gag |
-| Horror | Specific threat or unsettling anomaly | Someone vulnerable has a reason to act | Evidence narrows escape or changes understanding | Established threat pays off; fate or revelation resolves the central question |
-| Romance | Charged encounter or consequential misunderstanding | A small, revealing gesture | Choices risk rejection or trust | A reciprocal action resolves the relationship question |
-| Mystery | Clear discrepancy | Personal cost of the answer | Visible clues and revised interpretation | Fair clue produces a comprehensible answer |
-| Action/adventure | Legible danger and objective | A person or value worth protecting | Attempts change the physical problem | Character's decision causes escape, rescue, or meaningful loss |
-| Drama/tragedy | Consequential choice or emotional rupture | Specific relationship or vulnerability | Pressure exposes competing needs | Consequence delivers meaning, whether joyful or painful |
+| Genre | Outcome worth anticipating | Resistance can be | Satisfying resolution |
+|---|---|---|---|
+| Comedy | What consequence will this behavior cause? | A character's tactic makes the situation worse | Established pattern pays off as a fitting gag |
+| Horror | Will the character understand or escape the threat? | Evidence changes what safety means | An established threat, fate, or revelation answers the promise |
+| Romance | Will vulnerability be reciprocated? | Fear, incompatible needs, misunderstanding | A consequential response resolves the relationship question |
+| Mystery | What explains the discrepancy? | Fair clues permit competing interpretations | Established evidence produces an intelligible answer |
+| Action/adventure | Can the character achieve the objective at its cost? | Attempts alter danger and options | A revealing choice causes rescue, escape, or meaningful loss |
+| Drama/tragedy | What will this person choose, and what will it cost? | Conflicting values or relationships | Consequence delivers emotional meaning, whether joyful or painful |
 
-Genre controls the promise and payoff. Medium controls design and performance. Either can combine with the other: quiet clay horror, graphic 2D romance, realistic comedy, abstract science fiction. Do not treat a style label as a complete art direction.
+An obvious physical solution does not automatically invalidate romance, comedy, or drama. If speaking is easy but admitting the truth is costly, the relationship may be the real conflict. The test asks whether meaningful uncertainty remains.
 
-## Worked plan: The Last Light
+Medium independently changes image and motion: felt uses tactile texture and deliberate physical poses; 2D ink animation can emphasize silhouettes and graphic expressions; live action can use restrained observation; clay needs believable weight and contact. Do not impose the same lens, skin, lighting, and camera adjectives on all styles. The information sequence and emotional promise still require testing in the chosen medium.
 
-Family fantasy, 2D ink-and-gouache cartoon, vertical. A lighthouse keeper's young apprentice must guide a returning boat after the beacon fails. The apprentice's established hand mirror becomes the solution; the character must leave shelter to use it.
+## Rejected Santa premise
 
-| Shot | Seconds | Visual story |
-|---|---:|---|
-| S01 | 3 | Beacon dies as a boat's light approaches the rocks; apprentice's hand freezes on the broken switch. |
-| S02 | 5 | Apprentice sees the familiar scarf tied to the boat's mast through binoculars. The returning person matters. |
-| S03 | 5 | Close view: fuse burns out. Apprentice reaches for a spare; its empty slot makes the attempt fail. |
-| S04 | 5 | A hand mirror catches the lantern flame on the wall. Apprentice notices the reflected patch. |
-| S05 | 7 | At the window, apprentice tries reflecting the lantern; the narrow angle sends the beam into the wall. |
-| S06 | 6 | Outside ledge offers the angle, but wind tears at the apprentice's sleeve. A glance at the boat forces the decision. |
-| S07 | 7 | Apprentice braces lantern and mirror against the rail, redirects the light; cut on the adjustment to its beam reaching the boat. |
-| S08 | 6 | Boat changes course away from rocks. The familiar scarf lifts in acknowledgment. |
-| S09 | 6 | Apprentice exhales, adjusts the mirror to keep guiding. Reflection warms the face where the dead beacon began. |
+Opening: a present slips, Santa catches it. Middle: a blocked chimney. Solution: use the front door. Ending: gift and hug.
 
-Planned total: 50 seconds. This arithmetic is a planning budget, not evidence of an exported runtime. Shot count follows the actions and revelations. Any spoken line must fit measured delivery; this version can play without dialogue. Production must establish plausible beam visibility and geography, simplify effects if generation cannot communicate them, and verify that the rescue reads clearly.
+v2 development decision: REVISE. The first danger resolves before the entrance problem begins; the obvious alternate entrance solves that problem immediately; a warm hug does not create the missing uncertainty. Adding ominous narration or a clearer bar cannot repair that premise alone. Choose a meaningful dilemma or different central problem rather than adding arbitrary barriers to every entrance.
 
-The story is illustrative and can be revised during animatic development. The visual callback supplies emotional closure without adding an explanatory speech.
+## Clarity failure
+
+Script: “The bridge is broken.” Image: attractive landscape with bridge mostly hidden. Narration repeats danger.
+
+Decision: REVISE the staging and rough sequence. Show the missing span in relation to the objective and demonstrate its consequence. Narration can establish why crossing matters, but cannot replace essential spatial evidence. Only actual rough playback/viewer response can support comprehension.
+
+## A promising but provisional emotional premise
+
+A child rehearses a confident thank-you for a gift, then discovers the giver has quietly sacrificed something personally meaningful. The question shifts from a practiced response to whether the child will acknowledge that cost. The payoff uses a gesture established earlier.
+
+Decision: PROVISIONAL, not automatically approved. It still needs a specific relationship, visible setup for the sacrifice, credible discovery, non-manipulative performance, and timed picture/sound execution. There is no artificial physical obstacle to invent. This illustrates the test's flexibility rather than prescribing our next Santa story.

@@ -1,4 +1,42 @@
-# VideoExpress prompt templates
+# VideoExpress prompt templates — v2 review draft
+
+Use only after the selected story, timed script, and rough-sequence review in SYSTEM_PROMPT.md. A strong prompt cannot repair an obvious solution or an unearned ending. Prompt instructions are intentions until the actual result is inspected.
+
+Apply [SMOOTH_EDITING.md](SMOOTH_EDITING.md). Prompt connected actions with usable preparation and follow-through, then edit the observed motion. Native playback speed is the default; do not preassign speed changes just to fit narration windows.
+
+## Required shot contract before prompting
+
+Record the viewer fact this shot must establish; the observable action proving it; entry/exit and object states; intended edited duration versus source duration; narration/dialogue cue; and why the next cut occurs. If viewers need to understand a blocked entrance, specify the relevant contact, failure, and response rather than merely including a bar somewhere in the background.
+
+## Translate visual development into shot prompts
+
+Complete [VISUAL_DEVELOPMENT.md](VISUAL_DEVELOPMENT.md). Carry the selected visual idea and each panel's attention/anticipation answers into concrete image and motion directions: focal relationship, pose/silhouette, contrast, spatial reveal, performance, and final state. Do not paste the whole visual plan into every prompt or substitute “eye-catching” for an observable choice.
+
+Image prompt addendum when relevant: “Primary visual relationship: [specific story-bearing contrast or arrangement]. The viewer notices [focal point] first because [scale/value/placement/silhouette]. This starting instant reveals [fact] while leaving [central outcome] unresolved.”
+
+Motion prompt addendum when relevant: “Interest develops as [blocking/expression/reveal changes]. The next cut is motivated when [information/action/emotional cue]. End with [visible state needed by the next shot or final payoff].” Generate editing handles, then select the actual usable range.
+
+Review the result against the intended visual job. A requested reveal, expression, or focal shift that never happens remains a defect even when the clip looks polished. Do not force every shot to contain all devices, continuous camera motion, or a cliffhanger.
+
+## Narration production contract
+
+Use a continuous approved narrator voice and script through an available audio workflow; do not assume per-clip native generation will maintain a narrator's identity. Record exact text, voice reference, intended time window, perspective/emotion, and pronunciation. Create and time temporary delivery before polished footage. When narration is required by the current brief, it must exist as an audible track in the rough and final sequence.
+
+Keep generated dialogue/effects separate from narration where practical so timing and mix can be controlled. If the app cannot supply a consistent narration track through available browser tools, disclose that blocker before polished video generation; do not silently deliver a dialogue-only film. Follow visible narration/voice-tool controls, never invent a field or capability. Do not clone a real person's voice without applicable authorization.
+
+Example narrator direction (illustrative, not this film's approved script): “Warm, restrained storyteller; speak the exact supplied line with rising concern, then leave space for the character's attempt. Do not announce the solution. No promotional announcer delivery.” Judge actual speech by listening, not the text alone.
+
+## Performance and continuity addenda
+
+Apply [PERFORMANCE_AND_FINISH.md](PERFORMANCE_AND_FINISH.md) before bulk production. Compare two actual opening narration deliveries with pictures; record the performance brief and selected complete timed track. For intentionally unnarrated films mark narrator-specific fields N/A.
+
+Shot addendum: “Intention: [playable goal]. Preparation/action/reaction: [observable changes]. Preserve [design references, contacts, ownership, light]. Exit state for the next shot: [action phase, gaze, motion direction, focal position].” Include only relevant directions supported by the selected mode; prompts do not prove compliance.
+
+Adjacent-shot contract: outgoing/incoming source ranges; actual boundary states; camera motion; geography/prop/light continuity; speech/ambience and sound-bridge timing; cut reason. Validate the generated result in the edit, not merely in a starting frame. Simplify coverage if the method cannot maintain the required states.
+
+## Source timing versus edit timing
+
+Request enough material to cover the action and editing handles. Record the intended usable event and cut cue. A source lasting five seconds need not remain five seconds on the timeline. Use separate inserts/reactions where complex choreography repeatedly fails. Do not add arbitrary time-coded changes beyond what the selected generation mode can reasonably deliver.
 
 These are adaptable starting points, not magic syntax or a guarantee of model compliance. Bracketed fields must be replaced. Use only directions relevant to the shot. Keep stable identity descriptions exact and references consistent. Do not paste the entire story into every prompt.
 
@@ -29,6 +67,12 @@ Describe one instant, not a sequence of incompatible poses. If dialogue follows,
 > Sound: [synchronized physical effect], [continuous ambience], [music direction only if appropriate]. [No dialogue if silent]. No unintended subtitles, logos, or generated lettering. [Specific defect to avoid, only when relevant].
 
 Timing instructions should fit the chosen generation duration. For a short reach, specify prompt action; for dread, specify held tension with observable change. Do not demand every shot complete by second three. Avoid conflicting moves, speed words, and simultaneous actions.
+
+### Connected-action addendum
+
+> Intended performance cadence: [natural-time / deliberately stylized]. Show [readable preparation], then [action/contact], then [result and response]. Usable motion for the planned cut: [before/after action phase]. Previous view exits with [pose/direction/prop state]; this view enters with [matching continuation]. Preserve [eye trace / movement / light]. Let the event complete without a forced reset or arbitrary freeze. [One motivated camera choice.]
+
+Specify only what the actual mode supports and inspect the resulting motion. A simple continuous setup can be stronger than generating separate views for every narrated phrase. Do not demand a hold at each end when the intended action should already be underway.
 
 ## D. Targeted repair
 

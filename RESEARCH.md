@@ -1,4 +1,4 @@
-# Research basis and evidence limits
+# Research basis and evidence limits — v2 review draft
 
 Compiled 2026-10-24. The workflow combines professional craft instruction with original production recommendations. It has not been experimentally validated as a retention system. No source establishes a universal cut interval, perfect hook duration, guaranteed emotional response, or viral formula.
 
@@ -22,4 +22,35 @@ Compiled 2026-10-24. The workflow combines professional craft instruction with o
 
 ## Original recommendations
 
-The 45–55-second default, illustrative beat timings, hook comparison, desire/investment/choice/payoff anchors, genre adaptations, continuity ledger, mobile checks, and review record are this workflow's practical synthesis. They are adjustable heuristics, not sourced scientific thresholds. Actual audience performance requires testing finished films and interpreting retention data alongside the film itself.
+Premise comparisons, obvious-solution challenges, viewer information maps, opening variants, fresh-viewer questions, evidence statuses, and focused audience-learning iterations are this workflow's practical synthesis. They are heuristics, not experimentally established thresholds. v2 removes the fixed 45–55-second default as a planning target: use the shortest effective story with margin under 60. Actual audience performance requires finished-film evidence and real responses.
+
+## Platform sources checked during the preceding workflow review, 2026-10-24
+
+- [YouTube — Shorts search and discovery](https://support.google.com/youtube/answer/11914225?co=YOUTUBE._YTVideoType%3Dshorts&hl=en): describes choosing to view, viewing duration/percentage, personalization and satisfaction, plus topic interest, competition, and seasonality. These are reasons to test audience fit and separate initial appeal from continued attention; they are not a guaranteed ranking recipe. No publication date displayed.
+- [YouTube — Shorts analytics tips](https://support.google.com/youtube/answer/12942217?co=YOUTUBE._YTVideoType%3Dshorts&hl=en): defines feed exposure and viewed versus swiped, and recommends examining comparable content and actual audience response. No publication date displayed.
+- [YouTube — Content performance metrics](https://support.google.com/youtube/answer/12220281?hl=en): Shorts average view duration and percentage viewed use engaged views, so these do not replace the separate initial stay/swipe measure. No publication date displayed.
+- [YouTube — Shorts discussion with Todd Sherman and Jenny Hoyos](https://blog.youtube/creator-and-artist-stories/youtube-shorts-deep-dive/), January 28, 2025: highlights immediate hooks and satisfying intrigue. The first-second emphasis is creator craft advice, not proof of a universal one-second threshold.
+- [Meta Engineering — Facebook Reels interest matching](https://engineering.fb.com/2026/01/14/ml-applications/adapting-the-facebook-reels-recsys-ai-model-based-on-user-feedback/), January 14, 2026: describes survey-based interest feedback alongside behavioral signals. It supports attention to audience relevance; it does not establish that this workflow will earn distribution.
+- [TikTok — Creative Codes](https://ads.tiktok.com/business/en/blog/creative-best-practices-top-performing-ads): advertising guidance discusses hooks, sound, stimulation, and structure. Ad recall findings must not be presented as organic narrative-film retention guarantees.
+
+## Visual-development extension
+
+VISUAL_DEVELOPMENT.md operationalizes the preceding Pixar/Disney composition, staging, performance and sequence-design guidance through opening comparisons, a memorable story image, visual progression, picture-led events, panel annotations and a visual payoff. The requirement for three visual concepts and the two panel questions are this workflow’s editorial heuristics, not source-proven formulas or guarantees of attention. Actual effectiveness needs rough playback, completed-film review, and viewer evidence.
+
+## Historical validation status at the v2 draft
+
+The previous Santa production completed technically but the user rejected its suspense, clarity, pacing, and missing narration. v2 treats those as failures to prevent, not proof that the prior workflow worked. At that draft stage, the evidence consisted of documentary checks and explicit paper stress tests in REVIEW.md; no v2 animatic, fresh-viewer study, finished-film trial, or release-performance result was then recorded. See the v2.3 section below for subsequent user feedback. No claim that this is the best possible or guaranteed-viral workflow is supported.
+
+## Performance and finishing extension — 2026-10-24
+
+- [Disney Animation — Editorial & Sound](https://www.disneyanimation.com/process/editorial--sound/): editorial participates throughout production, shaping rhythm/pacing with dialogue, music and sound collaborators.
+- [Disney Animation — Post Production](https://www.disneyanimation.com/process/post-production/): sound effects/Foley build the animated world; the final mix combines dialogue, music and effects for clarity and emotion; color timing refines sequence appearance.
+- [Disney Animation — Lighting](https://www.disneyanimation.com/process/lighting/): lighting works from visual-development color keys to guide attention and express mood and story.
+
+These official pages were read in the preceding quality review on 2026-10-24; no publication date was displayed. Together with the Story, Layout, and Animation sources above, they inform PERFORMANCE_AND_FINISH.md. The two opening deliveries, per-join ledger, phrase-to-picture map, and finished two-shot method test are our implementation recommendations, not Disney-prescribed quantities or proof of comparable results. This revision changes production requirements; it does not validate VideoExpress capabilities, audience response, or the finished quality of an unmade film.
+
+## Smooth-editing sources rechecked — 2026-10-24
+
+Reopened [Adobe — continuity editing](https://www.adobe.com/creativecloud/video/hub/ideas/what-is-continuity-editing-in-film.html), [Adobe — J and L cuts](https://helpx.adobe.com/premiere/desktop/edit-projects/trim-clips/perform-j-cuts-and-l-cuts.html), and [Disney Animation — editorial and sound](https://www.disneyanimation.com/process/editorial--sound/) for this revision. Adobe describes action, eye-trace and geographic continuity, plus sound that crosses image changes. Its split-edit help explains that picture and audio boundaries can occur at different points. Disney describes editorial shaping story rhythm alongside sound collaborators throughout production. These support continuity-led editing; they do not prescribe fixed cut rates, dissolve durations, silence thresholds, or predict virality.
+
+SMOOTH_EDITING.md's ordered workflow, native-speed default, independent TTS cleanup, connected-sequence test, and breathing-room comparison are our production recommendations in response to actual user feedback. Its optional coverage allowance and sample length are explicitly heuristics. The completed Christmas film received mixed user feedback (acceptable, a little too choppy); no fresh-viewer experiment, continuous agent sound-on assessment, or audience analytics is claimed by this documentation revision. No change to that film is part of v2.3.
