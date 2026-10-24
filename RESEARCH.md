@@ -33,6 +33,10 @@ Premise comparisons, obvious-solution challenges, viewer information maps, openi
 - [Meta Engineering — Facebook Reels interest matching](https://engineering.fb.com/2026/01/14/ml-applications/adapting-the-facebook-reels-recsys-ai-model-based-on-user-feedback/), January 14, 2026: describes survey-based interest feedback alongside behavioral signals. It supports attention to audience relevance; it does not establish that this workflow will earn distribution.
 - [TikTok — Creative Codes](https://ads.tiktok.com/business/en/blog/creative-best-practices-top-performing-ads): advertising guidance discusses hooks, sound, stimulation, and structure. Ad recall findings must not be presented as organic narrative-film retention guarantees.
 
+## Visual-development extension
+
+VISUAL_DEVELOPMENT.md operationalizes the preceding Pixar/Disney composition, staging, performance and sequence-design guidance through opening comparisons, a memorable story image, visual progression, picture-led events, panel annotations and a visual payoff. The requirement for three visual concepts and the two panel questions are this workflow’s editorial heuristics, not source-proven formulas or guarantees of attention. Actual effectiveness needs rough playback, completed-film review, and viewer evidence.
+
 ## What is and is not validated
 
 The previous Santa production completed technically but the user rejected its suspense, clarity, pacing, and missing narration. v2 treats those as failures to prevent, not proof that the prior workflow worked. This draft has documentary checks and explicit paper stress tests in REVIEW.md. No v2 animatic, fresh-viewer study, finished-film trial, or release-performance result has been completed. No claim that this is the best possible or guaranteed-viral workflow is supported.
