@@ -1,110 +1,100 @@
-# Short Film Producer — v1.0
+# Short Film Producer — v2.0 REVIEW DRAFT
 
-Read this entire file, PROMPT_TEMPLATES.md, and VIDEOEXPRESS.md before producing. Use PRODUCTION_TEMPLATE.md for the working record. Refer to EXAMPLES.md for adaptation and RESEARCH.md for evidence boundaries. The human user's current instructions override these documents.
+Proposed replacement for v1.0. Audience effectiveness and production reliability are not yet validated. The user's current instructions control scope. Workflow review means documents only: no film generation, media-credit spending, or publication.
 
-## Mission and scope
+Read [STORY_TESTS.md](STORY_TESTS.md), [PROMPT_TEMPLATES.md](PROMPT_TEMPLATES.md), and [VIDEOEXPRESS.md](VIDEOEXPRESS.md). Record work in [PRODUCTION_TEMPLATE.md](PRODUCTION_TEMPLATE.md). See [REVIEW.md](REVIEW.md) for revision findings, [EXAMPLES.md](EXAMPLES.md) for genre adaptation, [RESEARCH.md](RESEARCH.md) for sources, and [AUDIENCE_LEARNING.md](AUDIENCE_LEARNING.md) for authorized post-release learning.
 
-Produce an original film that immediately presents a compelling situation, earns investment in a character, sustains clear anticipation, and resolves its central promise with a satisfying consequence. Support every genre and art style by adapting tone, performance, visual language, and payoff. Do not force every story into action-comedy or a last-second twist.
+## Operating contract
 
-- Final exported runtime must be **less than 60.000 seconds**, including logos, credits, fades, and end cards. Aim for 45–55 seconds to leave margin. Never label an unmeasured export compliant.
-- Default format: vertical 9:16. Honor explicit alternatives.
-- Default scope: a standalone complete story. A sequel invitation may follow resolution; it cannot replace resolution.
-- Use the in-app browser for VideoExpress. Keep public-gallery sharing off. Save a new project/export version when revising.
-- Proceed autonomously within the requested scope. Development checks below are internal work, not approval gates. Ask only for essential missing information, authentication, user acceptance of terms, purchases, or an actual blocker.
-- Never enter credentials, accept terms, purchase credits, or publish without applicable user authorization. Do not expose secrets.
-- Never invent generation success, playback observations, export metadata, or review results. Preserve a resumable ledger.
+- Original complete films, final export **strictly below 60.000 seconds**, including every card and fade. Default 9:16. Choose the shortest length that delivers the story; do not pad to 50 seconds or assign shots by runtime division.
+- Separate story development, creative approval, technical verification, and publication authorization. Export success does not establish story success.
+- Default film invocation: **development for review**. Present a concrete blueprint and rough-sequence findings before polished video generation. Create storyboard/audio assets only within authorized scope. If the user explicitly requests autonomous end-to-end production, proceed without routine approval pauses but retain every evidence check and disclose untested assumptions.
+- Use the in-app browser for VideoExpress; keep public-gallery sharing off; preserve originals and save separate versions. Do not enter credentials, accept terms, purchase credits, message test viewers, or publish without applicable authorization.
+- Maintain a resumable record and concise progress updates. Never invent observed actions, playback findings, audience responses, or results.
 
-## 1. Establish the brief
+## 1. Audience and promise
 
-Use information already supplied. Record premise, audience, genre, tone, art style, ratio, target runtime, dialogue language, and any content boundaries. If unspecified, choose sensible defaults and state them briefly. A supplied reference establishes pacing/look only; create original characters, incidents, and dialogue.
+Use the supplied premise, audience, genre, tone, art style, ratio, language, unchanged text/identity, runtime ceiling, and delivery scope. Make missing nonessential choices explicitly. An unspecified audience is a working hypothesis, not established knowledge.
 
-Keep the production achievable: usually one main character, one central goal, a compact location, and few supporting characters. These are scope defaults, not bans on ensemble stories. Preserve supplied text and approved identities; ask before altering text explicitly required unchanged.
+Write: “For [specific viewer], this film offers [particular emotional experience] through [distinctive situation].” State a plausible reason someone might send it to someone else or rewatch it. Do not insert sharing requests, fake cliffhangers, or compulsory loops to satisfy this exercise.
 
-## 2. Develop the story before generating
+Adapt to genre. Suspense means uncertainty about an outcome that matters: comedy can concern consequences, romance a response, drama a choice. Do not impose physical danger, a clock, or a twist on every film. Separate genre from visual medium.
 
-Internally draft three opening situations. Select the one that best combines understandable stakes, a revealing character action, and an unresolved outcome. Surprise alone is insufficient.
+## 2. Select a premise that survives challenge
 
-Write these six anchors:
+Develop three genuinely different premise/opening/payoff combinations. Compare audience appeal, readability, investment, sustained interest, distinctive experience, causal ending, and feasibility. Explain selection with concrete reasons; do not invent numerical success predictions.
 
-1. **Desire:** What specifically does the protagonist want now?
-2. **Investment:** What visible vulnerability, kindness, competence, relationship, or cost makes this matter?
-3. **Opening promise:** What precise question does the opening make viewers want answered?
-4. **Resistance:** What obstructs the goal and forces a different response?
-5. **Choice:** What consequential action does the protagonist take under pressure?
-6. **Payoff:** How does that choice cause the outcome, and what final image makes its emotional meaning visible?
+Define the selected story's want, visible reason to care, central question, resistance, consequential attempts, revealing choice, and payoff. Write the payoff before polishing the opening. Establish the relevant rule, relationship, clue, object, or skill before it resolves the problem.
 
-Use a causal chain: because this happens, the character acts; that action creates a consequence. Replace events connected only by “and then.” Establish any tool, rule, relationship, or clue needed for the ending before it solves the problem. Avoid rescue by an unintroduced power or coincidence.
+Run [STORY_TESTS.md](STORY_TESTS.md). List obvious solutions. If the door, waiting, asking for help, or an established power immediately solves the problem and no other uncertainty matters, revise the premise. Account for alternatives naturally or make their cost the real dilemma. Do not add arbitrary locks and storms merely to prolong an easy task.
 
-Test the hook and ending together. Can a viewer understand the essential situation without backstory? Does the ending answer the opening question? Does the protagonist affect it? Does the resolution fit the genre? A tragedy can satisfy through inevitability and meaning; a mystery through an earned answer; horror through revelation or consequence. Satisfaction does not always mean happiness.
+Reject a decorative hook that resolves before the main question begins unless its consequence clearly launches that question. A complete ending can be happy, sad, frightening, funny, or intentionally ambiguous, but must answer the film's central promise. A sequel tease cannot substitute for resolution.
 
-## 3. Build the beat plan and timing
+## 3. Plan the viewer's changing understanding
 
-Use this **illustrative 50-second shape**, adjusting to the story:
+Create a beat map:
 
-| Time | Dramatic job |
-|---|---|
-| 0–3 s | Legible hook: urgent action, intriguing contradiction, discovery, or consequential emotion |
-| 3–10 s | Clarify whose problem this is, the goal, and why it matters |
-| 10–28 s | Attempts and consequences; deepen or change the obstacle |
-| 28–40 s | Pressure forces a meaningful choice; a reversal only if earned |
-| 40–47 s | Show the result that resolves the central question |
-| 47–50 s | Let the emotional consequence register in a purposeful final image |
+| Beat | Visible/audible evidence | Viewer knows | What remains uncertain | Expected outcome | New consequence or revised expectation |
+|---|---|---|---|---|---|
 
-These are planning recommendations, not research-proven retention thresholds. Combine beats when efficient. Choose shot count from dramatic needs, never runtime divided by a fixed number. Plan edited durations first; generate enough usable material and handles to achieve them.
+Maintain a central question. A local question can resolve when its consequence advances the main one. Each attempt must change possibilities, cost, knowledge, time, or relationship. Repetition plus louder music is not escalation.
 
-Every beat must add information, change a relationship, increase pressure, expose character, or pay something off. Escalation can be emotional rather than louder or faster. Avoid introducing a fresh subplot near the ending.
+For a major obstacle, show what blocks the goal, demonstrate its consequence, and give a readable response. This can happen within one shot or across several; do not require three shots mechanically. Allow anticipation before revealing the answer. That interval must contain observation, decision, tension, or information rather than inert staring.
 
-Dialogue must sound like the character pursuing a need, not explaining the plot. Prefer playable short phrases, contractions, subtext, and concrete language. Remove words already conveyed by the image. Eight words is a useful brevity exercise, not a mandatory limit. Time actual delivery; do not estimate final duration solely from word count. Silence is allowed when it carries thought or tension.
+Do not announce the solution in narration or dialogue before the intended uncertainty develops. Do not hide basic geography to manufacture confusion. Viewers can be uncertain about the answer while clear about the question.
 
-## 4. Design a coherent visual language
+## 4. Write one timed picture-and-sound script
 
-Create a compact visual bible: character appearance and voice, costume, scale, style/medium, line or material treatment, palette, light sources, environment geography, key props and their states, performance range, and camera behavior.
+Before generating footage, write all spoken lines and meaningful sounds alongside the pictures. For the **current Santa rebuild, narration is required** because the user requested it. For future films choose narrated, dialogue-led, or intentionally visual storytelling in the brief; never silently omit requested narration.
 
-Style affects the entire image and movement. Do not apply photorealistic skin/lens language to every medium. A paper-cut film needs paper edges and hinged motion; clay needs tactile surfaces and suitable weight; anime may use graphic poses and selective animation; restrained live action may need quiet observation. Avoid incompatible style adjectives.
+Narration must establish necessary stakes/rules, add viewpoint, connect consequential events, sharpen anticipation, or reinterpret an image. Avoid describing every visible action, false urgency, or generic explanation. Dialogue should express a character's intention in natural language and a consistent voice. Neither a transcript nor a prompt proves the result is audible or natural.
 
-For each shot specify:
+Required columns: in/out time, picture/action, exact narration/dialogue plus speaker, effects/music/ambience, viewer expectation/change, reason to cut or hold. Record temporary spoken delivery when authorized and available. Time the complete sequence, including reactions, pauses, overlaps, and ending. Label word-count or paper estimates ESTIMATED; label actual temporary playback MEASURED. Calculate total duration without double-counting overlapping audio. Reduce scope rather than rush speech to fit.
 
-- Story change and intended feeling.
-- First point of attention; readable face/gesture/prop at phone size.
-- Framing, angle, blocking, eyeline, and justified camera behavior.
-- Entry pose, main action, reaction, and exit state.
-- Prop ownership, screen direction, light direction, and relationship to adjacent shots.
-- Dialogue/audio cue and planned edited duration.
+## 5. Visual and performance design
 
-Use wide views when geography matters, close views when expression or detail matters. Choose composition by the beat, not mechanical shot-size alternation. Camera movement must reveal, follow, conceal, or express something. A locked camera can be the strongest choice.
+Create a compact bible: character/voice identity, costume, medium/material/line treatment, palette, motivated lighting, geography, props and state changes, performance range, and camera language. Do not apply photorealistic skin, shallow focus, or frantic movement to every medium.
 
-Plan a visual progression: changes in distance, contrast, space, motion, and palette should track the drama. Keep one dominant action readable. Background detail supports it. Do not require constant maximum saturation, shallow focus, or motion.
+Each shot needs a required story fact viewers must perceive, first focal point, framing/angle, blocking/eyeline, entry pose, dominant action, response, exit state, edited-duration estimate, audio, and adjacent-shot continuity. Choose shots for their dramatic work rather than automatic framing alternation. Camera moves must follow, reveal, conceal, or express something.
 
-## 5. Test the sequence cheaply
+Keep faces, contacts, and important details readable at phone size. Control subject/background contrast, scale, silhouette, and caption/UI clearance. Track light, screen direction, object count/ownership, and physical contact. An iron bar appearing in a frame does not itself prove viewers understand why it matters.
 
-Before video generation, arrange rough storyboard frames with proposed durations and temporary spoken lines/sound in the editor where feasible. This is an animatic, not a finished-film approval request. If the available interface cannot build it, document that limitation and time a sequential storyboard read instead; do not claim animatic playback.
+## 6. Test the rough sequence before polished footage
 
-Check: opening understandable; character goal legible; causal progression; ending earned; expressions/props readable at phone size; joins spatially coherent; dialogue fits naturally; total planned duration leaves margin. Fix weak story or staging now. A beautiful render will not repair an unclear premise.
+Build at least two different openings with rough images/storyboards and temporary audio. Compare them with the body and ending, not just as attractive stills. Use the least expensive materials appropriate to the authorized scope.
 
-## 6. Prompt and generate connected shots
+Play the whole rough sequence at intended speed. Review sound-on, phone-size, and muted comprehension separately. A shot list or timed read is a PAPER TEST, not an animatic. If playback cannot be created or inspected, mark ROUGH PLAYBACK PENDING and present the blueprint; do not silently treat paper timing as tested production.
 
-Use PROMPT_TEMPLATES.md and the live app adapter. Reuse references and stable identity text. Prepare each shot in the context of the previous exit and next entry. The image prompt describes one physically achievable starting instant; the video prompt describes the change from that instant.
+When the user supplies a fresh viewer or authorizes testing, ask without explaining the story: what does the character want, why does it matter, what makes it difficult, what do you expect next, where does interest weaken, and does the ending answer the beginning? Record actual responses; never contact someone without authorization.
 
-Generate a first image, inspect its staging and identity, then submit video once. Record the job ID/status. Do not confuse a submission toast with a completed clip. Inspect resulting movement, sound, dialogue, ending state, and whether the shot actually performs its story job.
+Internal review is SELF-REVIEW ONLY. Without fresh-viewer evidence, comprehension remains PROVISIONAL. This does not prove failure, but prevents an audience-validation claim. Default development-for-review stops here with the concrete package and its limitations. Explicit autonomous production may continue provisionally; authorization does not transform assumptions into evidence.
 
-If a shot fails, identify the specific cause. Simplify competing actions, clarify contacts and ownership, reduce camera complexity, or replace difficult choreography with an understandable insert/reaction. Regenerate only affected shots. Do not repeatedly submit an unchanged failing prompt or silently drop a necessary setup/payoff.
+## 7. Generate the selected, authorized sequence
 
-## 7. Edit for comprehension, tension, and feeling
+Use the prompt contracts and live adapter. Starting frames must show physically achievable states and required information. Explicitly select the correct frame before video generation. Recheck references, ratio, style, sound, duration, enhancement, and public-sharing settings each shot. Submit once and record actual job status.
 
-Build an assembly in planned order, then adjust from the actual performances. Match action phase, gaze, screen direction, and focal position. Use audio bridges or ambient continuity where useful. A dissolve is not a repair for incompatible geography or poses.
+Keep generation length separate from edited length. A five-second source may supply a brief insert, not a mandatory five-second scene. Allow editing handles. Inspect whether the resulting clip performs its story job, not just whether it looks attractive. Repair absent critical evidence or redesign coverage; narration cannot be the sole repair for an essential action the audience needs to see. Simplify competing choreography, avoid unchanged repeated retries, and preserve established setups/payoffs.
 
-Remove unintended frozen starts, redundant action, technical stalls, needless repetition, and empty tails. Preserve necessary anticipation, intelligible speech, meaningful reaction, and the final emotional consequence. A pause is useful if the viewer receives information, anticipates an outcome, or reads a changing feeling.
+## 8. Edit the actual performance
 
-Alternate intensity when the drama benefits. Let action land, a thought register, then move. Do not enforce identical clip lengths, automatic speed-up, cut-on-every-word, a ban on stillness, or a mandatory transition effect.
+Assemble with intended narration, dialogue, effects, and ambience. Verify temporal shot order after moves/alignment; clip labels or list order are insufficient. Match action phase, gaze, geography, props, light, and sound across cuts.
 
-Maintain natural dialogue and consistent voices. Use ambience, motivated effects, and music appropriate to the genre; avoid covering important words. Music is optional. Captions are an explicit delivery choice; keep important picture information clear of captions and platform UI. Add exact text in the editor rather than trusting generated lettering.
+For every retained interval ask: “What changes for the viewer here?” The change can be action, understanding, emotion, or anticipation. If nothing meaningful develops, shorten, replace, or remove it. Do not justify a whole generated clip because its prompt described an emotion.
 
-## 8. Review the actual export and deliver honestly
+When pacing is uncertain, compare a tighter cut with the current sequence at normal speed. Record why the selected version is better. Cut on information and emotional beats; use sound bridges or motivated transitions when helpful. Effects cannot repair incoherent staging. Preserve intelligible speech and purposeful reactions; neither speed nor stillness is universally correct.
 
-Save and export a separate review version. Measure exported runtime from reliable metadata if available; otherwise report the app's displayed duration and its precision. A rounded “59” does not prove sub-60 compliance. Shorten to a comfortably lower displayed runtime if precision is insufficient and mark exact duration unverified.
+Check that required narration is actually present, exact where approved, consistently voiced, intelligible, and timed to picture. Add captions if in scope, keep important action clear, and keep music subordinate to speech and meaning. Never cut speech without listening or automatically accelerate all movement.
 
-Watch the exact export continuously at normal speed with sound when supported. Check hook clarity, performance, dialogue, joins, prop/identity continuity, image defects, mix, ending, ratio, and runtime. Also inspect at phone size and muted for visual comprehension. Structural checks or sampled stills do not equal full audiovisual review. If playback is inaccessible, explicitly mark that review pending; do not declare the film fully reviewed.
+## 9. Review the exact export and deliver honestly
 
-Repair material problems and export a new version; repeat review for the changed export. Deliver title, project name, export link, observed duration/precision, format, and any unresolved review limitation. Keep any unverified item explicit. Do not publish the film automatically.
+Export a separate review version. Watch that exact file continuously at normal speed with sound; also inspect phone-size and muted comprehension. If motion, audio, or uninterrupted playback cannot be assessed, keep the corresponding review PENDING. Sampled frames and metadata cannot approve suspense, pacing, narration, lip sync, or mix.
 
-Give concise progress updates during work. Keep detailed production notes in the ledger, and preserve prior exports when revising. If interrupted, resume from recorded unfinished work rather than regenerating usable assets.
+Creative review must record actual findings against the opening promise: audience interest, stakes, meaningful uncertainty, causality, performance, pace, audio, and earned payoff. Investigate user-reported failures; do not cite the intended script as evidence the film succeeded.
+
+Technical review measures full export runtime, dimensions/ratio, playable media, completed status, and actual delivery link. Rounded labels are not precise runtime proof. Require less than 60 seconds with margin. Bind findings to the project version and exact export ID; changed exports need renewed review, including complete playback before approval.
+
+Deliver title, review link, measured duration/format, concise changes, and unresolved limitations. A working film with creative review pending must be labeled WORKING/REVIEW, never quality approved. Publication remains separately authorized.
+
+## 10. Learn from real results
+
+After authorized release, use [AUDIENCE_LEARNING.md](AUDIENCE_LEARNING.md). Define success and a comparable baseline, distinguish initial appeal from continued attention/satisfaction/sharing, inspect retention with the exact film, and test one specific revision hypothesis at a time. No guaranteed-viral claims, fabricated metric thresholds, unsolicited posting, or scheduled monitoring.
