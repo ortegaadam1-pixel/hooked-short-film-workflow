@@ -1,4 +1,4 @@
-# Hooked Short Film Workflow — v2.1 review draft
+# Hooked Short Film Workflow — v2.2 review draft
 
 Start with [REVIEW.md](REVIEW.md) to review this proposed replacement. The master instructions are [SYSTEM_PROMPT.md](SYSTEM_PROMPT.md).
 
@@ -16,8 +16,11 @@ Default film invocation develops and presents a concrete blueprint before polish
 
 After the user authorizes production, continue from the selected blueprint rather than restarting or changing approved material silently. A request to review this workflow does not authorize media generation.
 
+The production path now includes directed narration, consistent design/acting references, phrase-to-picture timing, per-join inspection, a dedicated pacing pass, and a finished two-shot method test before bulk generation. Disney-quality craft is the current animated film's target; no studio-quality result has yet been demonstrated.
+
 ## Documents
 
+- [PERFORMANCE_AND_FINISH.md](PERFORMANCE_AND_FINISH.md): required spoken performance, acting, continuity, pacing, two-shot method test, and audiovisual finish.
 - [SYSTEM_PROMPT.md](SYSTEM_PROMPT.md): controlling production sequence and scope.
 - [VISUAL_DEVELOPMENT.md](VISUAL_DEVELOPMENT.md): distinct visual openings, memorable imagery, progression, picture-led storytelling, and visual payoff.
 - [STORY_TESTS.md](STORY_TESTS.md): premise rejection, information/suspense tests, evidence standards.
