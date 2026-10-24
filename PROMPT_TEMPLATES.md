@@ -6,6 +6,16 @@ Use only after the selected story, timed script, and rough-sequence review in SY
 
 Record the viewer fact this shot must establish; the observable action proving it; entry/exit and object states; intended edited duration versus source duration; narration/dialogue cue; and why the next cut occurs. If viewers need to understand a blocked entrance, specify the relevant contact, failure, and response rather than merely including a bar somewhere in the background.
 
+## Translate visual development into shot prompts
+
+Complete [VISUAL_DEVELOPMENT.md](VISUAL_DEVELOPMENT.md). Carry the selected visual idea and each panel's attention/anticipation answers into concrete image and motion directions: focal relationship, pose/silhouette, contrast, spatial reveal, performance, and final state. Do not paste the whole visual plan into every prompt or substitute “eye-catching” for an observable choice.
+
+Image prompt addendum when relevant: “Primary visual relationship: [specific story-bearing contrast or arrangement]. The viewer notices [focal point] first because [scale/value/placement/silhouette]. This starting instant reveals [fact] while leaving [central outcome] unresolved.”
+
+Motion prompt addendum when relevant: “Interest develops as [blocking/expression/reveal changes]. The next cut is motivated when [information/action/emotional cue]. End with [visible state needed by the next shot or final payoff].” Generate editing handles, then select the actual usable range.
+
+Review the result against the intended visual job. A requested reveal, expression, or focal shift that never happens remains a defect even when the clip looks polished. Do not force every shot to contain all devices, continuous camera motion, or a cliffhanger.
+
 ## Narration production contract
 
 Use a continuous approved narrator voice and script through an available audio workflow; do not assume per-clip native generation will maintain a narrator's identity. Record exact text, voice reference, intended time window, perspective/emotion, and pronunciation. Create and time temporary delivery before polished footage. For this Santa rebuild narration is required; it must exist as an audible track in the rough and final sequence.
