@@ -36,6 +36,12 @@ Apply [VISUAL_DEVELOPMENT.md](VISUAL_DEVELOPMENT.md) alongside script tests:
 
 A quiet, restrained panel can satisfy these tests. Spectacle, fast cutting, identical shot-size alternation, and constant movement are not mandatory. Results remain provisional when only self-reviewed.
 
+## Performance and finish tests
+
+Apply [PERFORMANCE_AND_FINISH.md](PERFORMANCE_AND_FINISH.md): actual opening delivery comparison; natural full spoken performance; expression/key-pose and color/light references; timed phrase/reveal/reaction relationship; every-cut playback; dedicated stall/rush review; material animation-defect repair; finished representative two-shot method test before bulk footage; complete exact-export picture/sound review. Use N/A with a reason for narrator-specific checks in intentionally unnarrated films.
+
+A smooth join cannot pass from matching stills alone. An attractive face cannot pass acting without motion. A checked form cannot pass unheard narration. Missing method playback blocks bulk polished generation, not document development. These are craft acceptance rules, not evidence of audience preference or studio equivalence.
+
 ## Required evidence record
 
 | Claim | Planned evidence | Actual evidence/location | Reviewer and method | Status | Specific repair |
