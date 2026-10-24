@@ -1,5 +1,15 @@
 # Changelog
 
+## 2.2 performance and finish review draft — 2026-10-24
+
+- Added PERFORMANCE_AND_FINISH.md and integrated its requirements across master, prompts, visual development, adapter, tests, and record.
+- Required opening narration delivery comparisons, performance direction, and a timed complete selected track before final footage.
+- Added consistent acting/design references, color-light keyframes, phrase-to-picture timing, and material motion-defect criteria.
+- Required every-join playback records and a dedicated pacing pass without fixed cut intervals.
+- Added an integrated finished two-shot method test before bulk polished generation; unavailable review remains pending even with autonomous authorization.
+- Strengthened exact-export mix, color, motion, and creative acceptance; retained genre/style flexibility and separate publication scope.
+- Disney-quality craft is a benchmark, not a demonstrated result. No audiovisual trial or audience validation claimed.
+
 ## 2.1 visual-development review draft — 2026-10-24
 
 - Added required VISUAL_DEVELOPMENT.md and connected it to the master workflow, prompts, storyboard record, tests, and review package.
