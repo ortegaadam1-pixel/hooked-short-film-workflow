@@ -1,4 +1,4 @@
-# Film record — v2
+# Film record — v2.2
 
 Version / date / scope / current step / next action:
 Original projects and exports preserved:
@@ -113,3 +113,33 @@ Delivery label: WORKING / REVIEW / APPROVED; never default to approval.
 Publication authorization and status (separate):
 
 Any picture, sound, caption, or encoding change creates a new export record and requires renewed review.
+
+## Required performance and finish evidence
+
+Apply [PERFORMANCE_AND_FINISH.md](PERFORMANCE_AND_FINISH.md). Leave unobserved findings PENDING; narrator-specific N/A requires a reason.
+
+Narration performance brief / viewpoint / emotional progression / pronunciation / exact-text constraints:
+Opening delivery A and B artifact IDs / picture context / listening findings / selected delivery and reason:
+Complete selected narration version / measured timing / naturalness and intelligibility findings:
+Character/expression/key-pose references / prop and geography references:
+Opening/development/climax/payoff color-light keyframes / continuity findings:
+
+| Spoken phrase/cue | Prior viewer knowledge | Picture before/during/after and actual timing | Intended effect | Observed reveal/reaction issue and repair |
+|---|---|---|---|---|
+
+| Join/timecode | Outgoing/incoming source ranges and boundary states | Action/gaze/prop/focal-position continuity | Camera/geography/light | Audio bridge/overlap timing | Cut reason | Normal-speed sound-on finding/repair |
+|---|---|---|---|---|---|---|
+
+Two-shot sample: artifact/version / representative difficulty / actual voice and mix:
+Observed story readability / acting / design / join / speech / picture-sound findings:
+Material defects / repairs / reinspection / READY FOR BULK or PENDING:
+Actual-motion review: identity drift / flicker / feet / contacts / weight / props / expressions / lip sync where applicable:
+
+Dedicated pacing pass artifact/method:
+| Interval | What changes / exact information-read point | Stall, rush, or purposeful hold | Tighter comparison when needed | Selected timing and reason |
+|---|---|---|---|---|
+
+Final mix findings: speech masking / levels by listening / distortion / voice consistency / physical effects / ambience / music and silence:
+Final color/design continuity findings:
+Exact-export creative reviewer / actual continuous playback method / timecoded defects and fixes:
+Unresolved material defects prevent creative approval; pending review remains WORKING/REVIEW. Publication is separately authorized.
