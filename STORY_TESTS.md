@@ -23,6 +23,19 @@ Statuses: REVISE, PROVISIONAL, SUPPORTED, NOT APPLICABLE with reason. A paper ra
 - **Sound:** Is requested narration present? Does picture complement rather than merely duplicate it? Speech intelligibility requires listening.
 - **Ending:** Is the promised outcome answered, caused, and emotionally readable? Does the film continue past its strongest final moment without purpose?
 
+## Visual-development tests
+
+Apply [VISUAL_DEVELOPMENT.md](VISUAL_DEVELOPMENT.md) alongside script tests:
+- Three opening concepts must differ in staging, reveal, viewpoint, scale, or relationship, not merely adjectives.
+- Identify a specific memorable story image/action; a style label or saturated palette alone is insufficient.
+- Trace visual progression through the script's turns. Repetition without new action, feeling, or information needs redesign.
+- Locate picture-led evidence for essential events. Narration adds meaning instead of substituting for absent action.
+- Identify the final visual payoff and its earlier setup; a literal callback is optional.
+- Each panel must answer why it is worth looking at and why viewers want what follows; the last panel must justify satisfaction.
+- Review actual phone-size images and full motion/sound sequences. Readability, visual attraction, story utility, and feasibility are separate findings.
+
+A quiet, restrained panel can satisfy these tests. Spectacle, fast cutting, identical shot-size alternation, and constant movement are not mandatory. Results remain provisional when only self-reviewed.
+
 ## Required evidence record
 
 | Claim | Planned evidence | Actual evidence/location | Reviewer and method | Status | Specific repair |
