@@ -46,6 +46,30 @@ Prop count / owner / condition before and after changes:
 Narrator identity / exact text / audio version / recorded delivery:
 Caption plan / important-picture and UI clearance:
 
+## Required visual-development package
+
+Three distinct opening designs (staging/reveal/viewpoint/scale/relationship) and why each could draw attention:
+Two selected concepts for rough playback / rejection reasons for the other:
+Story-specific visual idea / planned signature image or action:
+Annotated reference/design board location, or documents-only description:
+
+| Dramatic function | Picture/staging | Distance/space/light/motion progression | Script meaning and viewer expectation |
+|---|---|---|---|
+| Opening promise | | | |
+| Development | | | |
+| Choice/climax | | | |
+| Visual payoff | | | |
+
+For EACH storyboard panel:
+- What makes this worth looking at? Name the specific design/action/performance/reveal.
+- What makes the viewer want the next shot? For the final panel: why is this a satisfying ending?
+- First focal point / script fact or emotion / visible evidence / new information / continuity / cut or hold cue.
+- Readable / visually engaging / narratively useful / feasible: record findings separately.
+
+Essential picture-led events / what narration adds rather than duplicates:
+Final image / earlier visual setup / what changed and why it matters:
+Actual phone-size/rough-playback findings and unresolved risks:
+
 ## Shot and asset ledger
 
 | Shot | Required story evidence | Entry → action → response → exit | Focus / framing / camera | Generate duration vs intended edited range | Audio line/cue | Reference/job ID/status | Defect/repair |
@@ -75,6 +99,7 @@ Tighter cut compared? Result or reason not needed:
 Empty intervals removed / purposeful holds retained, with locations:
 Chronological order verified from actual playback positions:
 Creative findings against opening question and payoff:
+Visual attraction / memorable image / visual progression / picture-led events / visual payoff: intended versus observed findings, with timecodes:
 
 ## Exact export record
 
