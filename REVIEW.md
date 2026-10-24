@@ -65,3 +65,19 @@ Before a default production run proceeds, present the selected premise and rejec
 - A complete v2-generated film and its audience performance.
 
 Review focus: does this process give enough evidence before spending on polished footage, respect narration and pacing requirements, remain practical across genres/styles, and prevent assumptions from being labeled successful execution? Source support and limits are in [RESEARCH.md](RESEARCH.md).
+
+## v2.2 performance and finish revision — 2026-10-24
+
+Added PERFORMANCE_AND_FINISH.md and connected it to the controlling workflow, visual development, prompts, adapter, tests, and production record. The prior version specified desired qualities without enough execution evidence. Required additions are directed opening narration comparisons and a timed full delivery; acting/design references; phrase-to-picture timing; every-join records and playback; a dedicated pacing pass; a representative finished two-shot method test before bulk generation; and actual mix/color/motion review before creative approval.
+
+Document-level cases reviewed for this revision:
+- Intelligible but flat narration: consistency alone is insufficient; compare actual opening performances and direct the complete delivery.
+- Matching boundary stills but an awkward moving cut: inspect the join in normal-speed sound-on context.
+- A five-second source with idle remainder: retain only developing action/meaning; compare a tighter cut when a stall is found.
+- Polished image with drifting face or floating gift: inspect motion and repair the material defect.
+- Correct words with an early solution reveal: inspect timed phrase/picture evidence and restore the intended uncertainty.
+- Two attractive isolated shots with an untested narrator or join: complete the integrated representative method sample before bulk footage.
+- Autonomous authorization with unavailable sample playback: development may continue, but bulk polished generation remains pending.
+- Intentionally unnarrated comedy or graphic animation: narrator fields may be N/A; retain performance, story, timing, continuity, and finish checks appropriate to the medium.
+
+These are documentation-level rule checks, not executed audiovisual trials or fresh-viewer tests. No v2.2 film or quality sample has been produced. Disney-quality craft remains the requested benchmark, not demonstrated equivalence.
