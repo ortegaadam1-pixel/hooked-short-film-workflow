@@ -1,4 +1,4 @@
-# Hooked Short Film Workflow — v2 review draft
+# Hooked Short Film Workflow — v2.1 review draft
 
 Start with [REVIEW.md](REVIEW.md) to review this proposed replacement. The master instructions are [SYSTEM_PROMPT.md](SYSTEM_PROMPT.md).
 
@@ -6,7 +6,7 @@ The goal is original narrative films strictly under 60 seconds that earn initial
 
 ## Development sequence
 
-Audience and promise → competing premises → story stress tests → viewer information map → timed picture-and-sound script → visual/performance design → opening comparison and rough playback → development review → authorized generation → actual-performance editing → separate creative/technical review → review delivery → authorized release and learning.
+Audience and promise → competing premises → story stress tests → viewer information map → timed picture-and-sound script → visual development and performance design → opening comparison and rough playback → development review → authorized generation → actual-performance editing → separate creative/technical review → review delivery → authorized release and learning.
 
 Default film invocation develops and presents a concrete blueprint before polished video generation. Explicit autonomous production authorization is supported, with checks and uncertainty carried forward. No automatic publication. For the current Santa rebuild, narration is required.
 
@@ -19,6 +19,7 @@ After the user authorizes production, continue from the selected blueprint rathe
 ## Documents
 
 - [SYSTEM_PROMPT.md](SYSTEM_PROMPT.md): controlling production sequence and scope.
+- [VISUAL_DEVELOPMENT.md](VISUAL_DEVELOPMENT.md): distinct visual openings, memorable imagery, progression, picture-led storytelling, and visual payoff.
 - [STORY_TESTS.md](STORY_TESTS.md): premise rejection, information/suspense tests, evidence standards.
 - [PRODUCTION_TEMPLATE.md](PRODUCTION_TEMPLATE.md): script, beat map, shot ledger, viewer evidence, export record.
 - [PROMPT_TEMPLATES.md](PROMPT_TEMPLATES.md): shot contracts, narration, source/edit timing, image/motion/repair prompts.
