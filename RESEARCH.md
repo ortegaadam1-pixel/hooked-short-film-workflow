@@ -40,3 +40,11 @@ VISUAL_DEVELOPMENT.md operationalizes the preceding Pixar/Disney composition, st
 ## What is and is not validated
 
 The previous Santa production completed technically but the user rejected its suspense, clarity, pacing, and missing narration. v2 treats those as failures to prevent, not proof that the prior workflow worked. This draft has documentary checks and explicit paper stress tests in REVIEW.md. No v2 animatic, fresh-viewer study, finished-film trial, or release-performance result has been completed. No claim that this is the best possible or guaranteed-viral workflow is supported.
+
+## Performance and finishing extension — 2026-10-24
+
+- [Disney Animation — Editorial & Sound](https://www.disneyanimation.com/process/editorial--sound/): editorial participates throughout production, shaping rhythm/pacing with dialogue, music and sound collaborators.
+- [Disney Animation — Post Production](https://www.disneyanimation.com/process/post-production/): sound effects/Foley build the animated world; the final mix combines dialogue, music and effects for clarity and emotion; color timing refines sequence appearance.
+- [Disney Animation — Lighting](https://www.disneyanimation.com/process/lighting/): lighting works from visual-development color keys to guide attention and express mood and story.
+
+These official pages were read in the preceding quality review on 2026-10-24; no publication date was displayed. Together with the Story, Layout, and Animation sources above, they inform PERFORMANCE_AND_FINISH.md. The two opening deliveries, per-join ledger, phrase-to-picture map, and finished two-shot method test are our implementation recommendations, not Disney-prescribed quantities or proof of comparable results. This revision changes production requirements; it does not validate VideoExpress capabilities, audience response, or the finished quality of an unmade film.
