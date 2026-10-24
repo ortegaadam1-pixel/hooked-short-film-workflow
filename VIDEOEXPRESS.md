@@ -19,6 +19,10 @@ Observed lessons from the prior run (historical, recheck live):
 
 Choose and test the actual browser-accessible narration/voice route before final footage when narration is required. Produce a short temporary delivery, confirm a consistent voice, exact wording, audible output, and timeline placement. Native dialogue generation and the presence of a Narration Video checkbox do not by themselves prove the required narrator workflow works. Record a concrete unsupported capability if blocked; never silently omit narration.
 
+## Required two-shot method test
+
+Follow [PERFORMANCE_AND_FINISH.md](PERFORMANCE_AND_FINISH.md). After testing the audio route, compare the opening deliveries and time the selected full narration. Finish two representative adjacent shots with the actual voice where required, intended mix, and final cut before bulk generation. Verify live support for needed audio placement, trimming, and transitions; do not invent controls. Reuse suitable existing assets. If the method fails materially, repair or redesign it first; unavailable creation/playback stays PENDING even during an autonomous run.
+
 ## Generation
 
 1. Open Create with AI → Create Video From Prompt, or its visible equivalent.
