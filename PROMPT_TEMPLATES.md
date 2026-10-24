@@ -24,6 +24,14 @@ Keep generated dialogue/effects separate from narration where practical so timin
 
 Example narrator direction (illustrative, not this film's approved script): “Warm, restrained storyteller; speak the exact supplied line with rising concern, then leave space for the character's attempt. Do not announce the solution. No promotional announcer delivery.” Judge actual speech by listening, not the text alone.
 
+## Performance and continuity addenda
+
+Apply [PERFORMANCE_AND_FINISH.md](PERFORMANCE_AND_FINISH.md) before bulk production. Compare two actual opening narration deliveries with pictures; record the performance brief and selected complete timed track. For intentionally unnarrated films mark narrator-specific fields N/A.
+
+Shot addendum: “Intention: [playable goal]. Preparation/action/reaction: [observable changes]. Preserve [design references, contacts, ownership, light]. Exit state for the next shot: [action phase, gaze, motion direction, focal position].” Include only relevant directions supported by the selected mode; prompts do not prove compliance.
+
+Adjacent-shot contract: outgoing/incoming source ranges; actual boundary states; camera motion; geography/prop/light continuity; speech/ambience and sound-bridge timing; cut reason. Validate the generated result in the edit, not merely in a starting frame. Simplify coverage if the method cannot maintain the required states.
+
 ## Source timing versus edit timing
 
 Request enough material to cover the action and editing handles. Record the intended usable event and cut cue. A source lasting five seconds need not remain five seconds on the timeline. Use separate inserts/reactions where complex choreography repeatedly fails. Do not add arbitrary time-coded changes beyond what the selected generation mode can reasonably deliver.
