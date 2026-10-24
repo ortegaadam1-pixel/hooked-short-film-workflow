@@ -1,8 +1,10 @@
-# Short Film Producer — v2.1 REVIEW DRAFT
+# Short Film Producer — v2.2 REVIEW DRAFT
 
 Proposed replacement for v1.0. Audience effectiveness and production reliability are not yet validated. The user's current instructions control scope. Workflow review means documents only: no film generation, media-credit spending, or publication.
 
 Read [STORY_TESTS.md](STORY_TESTS.md), [PROMPT_TEMPLATES.md](PROMPT_TEMPLATES.md), and [VIDEOEXPRESS.md](VIDEOEXPRESS.md). Record work in [PRODUCTION_TEMPLATE.md](PRODUCTION_TEMPLATE.md). See [REVIEW.md](REVIEW.md) for revision findings, [EXAMPLES.md](EXAMPLES.md) for genre adaptation, [RESEARCH.md](RESEARCH.md) for sources, and [AUDIENCE_LEARNING.md](AUDIENCE_LEARNING.md) for authorized post-release learning.
+
+Read and apply [PERFORMANCE_AND_FINISH.md](PERFORMANCE_AND_FINISH.md) for directed narration, acting/art references, phrase-to-picture timing, every-cut inspection, pacing, a finished two-shot method test, and final audiovisual acceptance. Disney-quality craft is the current film's benchmark, not a demonstrated result or a universal art style.
 
 ## Operating contract
 
@@ -51,6 +53,8 @@ Narration must establish necessary stakes/rules, add viewpoint, connect conseque
 
 Required columns: in/out time, picture/action, exact narration/dialogue plus speaker, effects/music/ambience, viewer expectation/change, reason to cut or hold. Record temporary spoken delivery when authorized and available. Time the complete sequence, including reactions, pauses, overlaps, and ending. Label word-count or paper estimates ESTIMATED; label actual temporary playback MEASURED. Calculate total duration without double-counting overlapping audio. Reduce scope rather than rush speech to fit.
 
+Before final footage, compare two actual opening deliveries with pictures and time the full selected narration performance as required by PERFORMANCE_AND_FINISH.md. Preserve approved text and identity; record naturalness and emotional progression from listening, not prompts.
+
 ## 5. Visual development and performance design
 
 Complete [VISUAL_DEVELOPMENT.md](VISUAL_DEVELOPMENT.md) before polished generation. Compare at least three distinct visual opening concepts for the selected premise; select two for rough playback. Define a story-specific memorable visual idea, map visual progression through the dramatic turns, make key events readable through action and expression, and design a final visual payoff linked to earlier setup. Each storyboard panel must answer “What makes this worth looking at?” and “What makes the viewer want the next shot?” For the final panel, ask what makes it a satisfying ending. Require specific design/performance/reveal choices, not generic cinematic adjectives. Include the annotated concepts, progression map, panel findings, and payoff in the development review. These requirements complement the strong script; they do not replace it with spectacle.
@@ -73,6 +77,8 @@ Internal review is SELF-REVIEW ONLY. Without fresh-viewer evidence, comprehensio
 
 ## 7. Generate the selected, authorized sequence
 
+First finish the representative two-adjacent-shot sample in PERFORMANCE_AND_FINISH.md, including actual speech where required and the planned mix. Resolve material method defects before bulk polished generation. If production or inspection is unavailable, keep this step PENDING and report the limitation; autonomous authorization does not waive it.
+
 Use the prompt contracts and live adapter. Starting frames must show physically achievable states and required information. Explicitly select the correct frame before video generation. Recheck references, ratio, style, sound, duration, enhancement, and public-sharing settings each shot. Submit once and record actual job status.
 
 Keep generation length separate from edited length. A five-second source may supply a brief insert, not a mandatory five-second scene. Allow editing handles. Inspect whether the resulting clip performs its story job, not just whether it looks attractive. Repair absent critical evidence or redesign coverage; narration cannot be the sole repair for an essential action the audience needs to see. Simplify competing choreography, avoid unchanged repeated retries, and preserve established setups/payoffs.
@@ -86,6 +92,8 @@ For every retained interval ask: “What changes for the viewer here?” The cha
 When pacing is uncertain, compare a tighter cut with the current sequence at normal speed. Record why the selected version is better. Cut on information and emotional beats; use sound bridges or motivated transitions when helpful. Effects cannot repair incoherent staging. Preserve intelligible speech and purposeful reactions; neither speed nor stillness is universally correct.
 
 Check that required narration is actually present, exact where approved, consistently voiced, intelligible, and timed to picture. Add captions if in scope, keep important action clear, and keep music subordinate to speech and meaning. Never cut speech without listening or automatically accelerate all movement.
+
+Apply PERFORMANCE_AND_FINISH.md's per-join record, phrase-to-picture checks, dedicated pacing pass, actual-motion defect criteria, and sound/color finish. These are required execution checks, not optional descriptive goals.
 
 ## 9. Review the exact export and deliver honestly
 
