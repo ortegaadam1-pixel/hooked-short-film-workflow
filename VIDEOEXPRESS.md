@@ -1,6 +1,23 @@
-# VideoExpress browser adapter
+# VideoExpress browser adapter — v2 review draft
 
-Use https://app.videoexpress.ai/ in the user's in-app browser. Reuse the authenticated production tab. This adapter starts from the prior playbook's controls; **it has not been independently live-validated for v1.0**. Read the current interface, adapt to visible labels, and record meaningful differences. Never invent unavailable features or model capabilities.
+Use https://app.videoexpress.ai/ in the user's in-app browser. Reuse the authenticated production tab. The previous Santa run on 2026-10-24 exercised image/video generation, consistent references, timeline assembly, saving and FullHD export. It did **not** validate consistent narration production or the v2 creative process. Read the current interface and record differences; controls and capabilities can change.
+
+## Development first
+
+Follow SYSTEM_PROMPT.md's scope and rough-sequence requirement before polished generation. For development-for-review, stop with the concrete blueprint and evidence status. An unavailable animatic or narration tool is a limitation to report, not permission to pretend the rough sequence was tested.
+
+Observed lessons from the prior run (historical, recheck live):
+
+- Newly generated images were not always selected automatically. Inspect the selection marker and explicitly choose the intended frame before Create Video.
+- Adding a saved library image to the carousel did not by itself establish a consistency reference. Confirm the actual reference slots. A consistency frame containing a prop can cause unwanted duplication in later scenes; inspect object count/ownership carefully.
+- Auto Align packed clips but did not guarantee narrative order. Compare their actual playback positions and review the sequence after every reorder/alignment. Saved order should survive closing and reopening the project.
+- Cut operated on the selected clip. Select the intended clip, place the playhead, split, inspect the resulting pieces, and delete only the unwanted piece through its menu. Avoid whole-track deletion controls.
+- Library duration text was malformed for some generated clips. Do not use it as runtime evidence. Completed-export player metadata provided precise duration and dimensions in that run.
+- A generation completion notification or successful export did not prove the story communicated its intended obstacle or suspense. Apply creative review separately.
+
+## Required audio setup
+
+Choose and test the actual browser-accessible narration/voice route before final footage when narration is required. Produce a short temporary delivery, confirm a consistent voice, exact wording, audible output, and timeline placement. Native dialogue generation and the presence of a Narration Video checkbox do not by themselves prove the required narrator workflow works. Record a concrete unsupported capability if blocked; never silently omit narration.
 
 ## Generation
 
