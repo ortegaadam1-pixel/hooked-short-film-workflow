@@ -1,4 +1,4 @@
-# Short Film Producer — v2.0 REVIEW DRAFT
+# Short Film Producer — v2.1 REVIEW DRAFT
 
 Proposed replacement for v1.0. Audience effectiveness and production reliability are not yet validated. The user's current instructions control scope. Workflow review means documents only: no film generation, media-credit spending, or publication.
 
@@ -51,7 +51,9 @@ Narration must establish necessary stakes/rules, add viewpoint, connect conseque
 
 Required columns: in/out time, picture/action, exact narration/dialogue plus speaker, effects/music/ambience, viewer expectation/change, reason to cut or hold. Record temporary spoken delivery when authorized and available. Time the complete sequence, including reactions, pauses, overlaps, and ending. Label word-count or paper estimates ESTIMATED; label actual temporary playback MEASURED. Calculate total duration without double-counting overlapping audio. Reduce scope rather than rush speech to fit.
 
-## 5. Visual and performance design
+## 5. Visual development and performance design
+
+Complete [VISUAL_DEVELOPMENT.md](VISUAL_DEVELOPMENT.md) before polished generation. Compare at least three distinct visual opening concepts for the selected premise; select two for rough playback. Define a story-specific memorable visual idea, map visual progression through the dramatic turns, make key events readable through action and expression, and design a final visual payoff linked to earlier setup. Each storyboard panel must answer “What makes this worth looking at?” and “What makes the viewer want the next shot?” For the final panel, ask what makes it a satisfying ending. Require specific design/performance/reveal choices, not generic cinematic adjectives. Include the annotated concepts, progression map, panel findings, and payoff in the development review. These requirements complement the strong script; they do not replace it with spectacle.
 
 Create a compact bible: character/voice identity, costume, medium/material/line treatment, palette, motivated lighting, geography, props and state changes, performance range, and camera language. Do not apply photorealistic skin, shallow focus, or frantic movement to every medium.
 
@@ -61,9 +63,9 @@ Keep faces, contacts, and important details readable at phone size. Control subj
 
 ## 6. Test the rough sequence before polished footage
 
-Build at least two different openings with rough images/storyboards and temporary audio. Compare them with the body and ending, not just as attractive stills. Use the least expensive materials appropriate to the authorized scope.
+Build the two selected visual opening concepts into different opening sequences with rough images/storyboards and temporary audio. Compare them with the body and ending, not just as attractive stills. Use the least expensive materials appropriate to the authorized scope.
 
-Play the whole rough sequence at intended speed. Review sound-on, phone-size, and muted comprehension separately. A shot list or timed read is a PAPER TEST, not an animatic. If playback cannot be created or inspected, mark ROUGH PLAYBACK PENDING and present the blueprint; do not silently treat paper timing as tested production.
+Play the whole rough sequence at intended speed. Review sound-on, phone-size, and muted comprehension separately. Also test what draws the eye, whether visual interest develops with the story, and whether the final image rewards the setup. Refer to the visual-development deliverables rather than treating clear pictures as proof of engaging pictures. A shot list or timed read is a PAPER TEST, not an animatic. If playback cannot be created or inspected, mark ROUGH PLAYBACK PENDING and present the blueprint; do not silently treat paper timing as tested production.
 
 When the user supplies a fresh viewer or authorizes testing, ask without explaining the story: what does the character want, why does it matter, what makes it difficult, what do you expect next, where does interest weaken, and does the ending answer the beginning? Record actual responses; never contact someone without authorization.
 
@@ -89,7 +91,7 @@ Check that required narration is actually present, exact where approved, consist
 
 Export a separate review version. Watch that exact file continuously at normal speed with sound; also inspect phone-size and muted comprehension. If motion, audio, or uninterrupted playback cannot be assessed, keep the corresponding review PENDING. Sampled frames and metadata cannot approve suspense, pacing, narration, lip sync, or mix.
 
-Creative review must record actual findings against the opening promise: audience interest, stakes, meaningful uncertainty, causality, performance, pace, audio, and earned payoff. Investigate user-reported failures; do not cite the intended script as evidence the film succeeded.
+Creative review must record actual findings against the opening promise: audience interest, stakes, meaningful uncertainty, causality, performance, pace, audio, and earned payoff. Separately assess visual attraction, first-focus clarity, story-specific memorable imagery, visual progression, picture-led events, and the final visual payoff against VISUAL_DEVELOPMENT.md. A beautiful isolated frame is not proof that the sequence sustains visual interest. Investigate user-reported failures; do not cite the intended script as evidence the film succeeded.
 
 Technical review measures full export runtime, dimensions/ratio, playable media, completed status, and actual delivery link. Rounded labels are not precise runtime proof. Require less than 60 seconds with margin. Bind findings to the project version and exact export ID; changed exports need renewed review, including complete playback before approval.
 
