@@ -74,6 +74,10 @@ Review source clips and the final export against the same visual plan. Verify th
 
 If visual interest depends on an unreadable detail, missing action, arbitrary spectacle, or a payoff not established earlier, revise staging or editing before treating it as ready. Taste judgments remain provisional without audience response; document disagreements rather than inventing unanimous approval.
 
+## Performance and finish integration
+
+Apply [PERFORMANCE_AND_FINISH.md](PERFORMANCE_AND_FINISH.md). Add consistent character/expression/key-pose references and representative color/light keyframes to the design package. Map important spoken phrases to prior knowledge, timed reveal, and ensuing reaction. Inspect actual motion, contacts, identity, and adjacent-shot design together; record material defects and repairs. Before bulk polished generation, demonstrate the selected method in the finished two-shot sample.
+
 ## Required visual-development deliverable
 
 - Three annotated visual opening concepts and selection reasons.
