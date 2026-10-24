@@ -1,4 +1,4 @@
-# v2 workflow — presented for review
+# v2.1 workflow — presented for review
 
 Status: **REVIEW DRAFT**, 2026-10-24. Proposed on a separate branch; v1 main is not replaced. No new film generated for this revision.
 
@@ -14,6 +14,7 @@ Status: **REVIEW DRAFT**, 2026-10-24. Proposed on a separate branch; v1 main is 
 | A paper read substituted for an animatic | Explicit PAPER ONLY versus ROUGH PLAYBACK status | Identifiable playable rough artifact or clearly pending review |
 | Self-review treated as audience validation | Separate internal judgment from fresh-viewer evidence | Actual unprompted responses, or comprehension PROVISIONAL |
 | Export success treated as creative completion | Creative, technical, and release decisions separate | Exact export review, measured metadata, distinct publication authorization |
+| Clear but ordinary visuals treated as engaging | Required visual-development package, distinct openings, memorable visual idea, progression, panel-level interest and anticipation, and visual payoff | Annotated concepts/storyboard plus actual phone-size rough playback; audience preference provisional without fresh viewers |
 | No systematic learning from release | Compare appeal, attention, satisfaction, and sharing | Authorized platform results with baseline and uncertainty |
 
 ## The production path
@@ -22,7 +23,7 @@ Status: **REVIEW DRAFT**, 2026-10-24. Proposed on a separate branch; v1 main is 
 2. Compare different premise/opening/payoff combinations and reject weak ones.
 3. Map what viewers know, expect, and still want answered through the story.
 4. Write the complete timed picture-and-sound script.
-5. Design the visual, voice, performance, and continuity language.
+5. Complete VISUAL_DEVELOPMENT.md: compare three distinct visual opening designs, select two for rough playback, define memorable imagery and visual progression, annotate each storyboard panel, and plan a picture-led payoff; maintain voice/performance/continuity.
 6. Compare opening variants in a complete rough sequence; gather fresh-viewer feedback when available/authorized.
 7. Present the development package for review by default; generate polished footage only within authorization.
 8. Edit actual performances, then separately review creative execution and technical export requirements.
@@ -43,13 +44,18 @@ Method: applied the written v2 decisions to the following hypothetical inputs. T
 | In romance, speaking is physically easy but admission risks rejection | May continue PROVISIONALLY | Meaningful emotional uncertainty can remain despite an easy physical action |
 | No fresh viewer, autonomous production already authorized | Continue provisionally with limitation stated | Permission is not audience validation; no invented test responses |
 | Export plays and is 51 seconds, but agent cannot hear it | Technical runtime can be supported; sound/creative review PENDING | Metadata cannot approve narration, natural delivery, mix, or suspense |
+| Opening variants differ only in color adjectives | REVISE visual concepts | Does not provide distinct staging, reveal, scale, viewpoint, or relationship |
+| Beautiful images repeat the same fact without change | REVISE panels/edit; attraction claims PROVISIONAL | Polish alone does not establish sequence development |
+| Narration supplies all action while pictures remain decorative | REVISE visual evidence and picture/sound relationship | Essential events need readable action and consequences |
+| Quiet close-up reveals a consequential decision | May continue PROVISIONALLY | Specific performance can create visual interest without spectacle or camera motion |
+| Final image echoes the opening but changes no meaning | REVISE payoff relationship if it adds nothing | A visual callback alone does not establish emotional reward |
 | Strong retention on a small unmatched audience sample | Exploratory result, no viral guarantee | Reach and response have alternative explanations and sample limitations |
 
 These tests show the draft now explicitly catches the previous reasoning errors. They do not show that a future film will be compelling, that every failure will be caught in practice, or that any film will go viral.
 
 ## Required film-development review package
 
-Before a default production run proceeds, present the selected premise and rejected alternatives; clear central question and payoff; obvious-solution findings; complete timed narration/dialogue/picture script; viewer information map; storyboard/opening comparison; rough playback status and findings; fresh-viewer results or SELF-REVIEW ONLY; and proposed fixes/remaining uncertainties. The user reviews a concrete film plan rather than a general promise.
+Before a default production run proceeds, present the selected premise and rejected alternatives; clear central question and payoff; obvious-solution findings; complete timed narration/dialogue/picture script; viewer information map; three distinct visual opening concepts and selection reasons; story-specific memorable visual idea; progression map; panel-level interest/anticipation answers; visual payoff/setup; storyboard/opening comparison; rough playback status and findings; fresh-viewer results or SELF-REVIEW ONLY; and proposed fixes/remaining uncertainties. The user reviews a concrete film plan rather than a general promise.
 
 ## What remains untested
 
