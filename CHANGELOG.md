@@ -1,5 +1,13 @@
 # Changelog
 
+## 2.1 visual-development review draft — 2026-10-24
+
+- Added required VISUAL_DEVELOPMENT.md and connected it to the master workflow, prompts, storyboard record, tests, and review package.
+- Required three distinct visual opening concepts, one story-specific memorable visual idea, visual progression, picture-led key events, and an earned final image.
+- Each storyboard panel must explain why it is worth looking at and why viewers want the next shot; the final panel explains satisfaction.
+- Added paper cases for superficial visual variants, repetitive polished imagery, decorative pictures, restrained performance, and empty callbacks.
+- All new visual rules are editorial recommendations; no filmed or fresh-viewer validation claimed.
+
 ## 2.0 review draft — 2026-10-24
 
 - Proposed replacement on a review branch; main remains unchanged pending review.
