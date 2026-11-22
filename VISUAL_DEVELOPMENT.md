@@ -100,3 +100,7 @@ Apply [SMOOTH_EDITING.md](SMOOTH_EDITING.md) during panel and motion planning. K
 Use [FILM_CRAFT_AND_REVISIONS.md](FILM_CRAFT_AND_REVISIONS.md) to plan functional connections, object count/state, architecture and mechanisms, effect containment and persistent consequences. Keep added props/effects in the same material language as the film. Starting-frame correctness does not prove the moving result.
 
 When complex group choreography compromises a face, contact or relationship, establish geography/count in a wide view and use motivated closer coverage for performance. Preserve enough evidence to explain offscreen action. Inspect composite backgrounds for sliding, resets and warping introduced by processing. An opening revision must also protect title readability and the transition into the accepted body; spectacle is an option, not a universal hook template.
+
+## Conditional Santa design
+
+For Santa Claus generation only, apply [SANTA_PRODUCTION.md](SANTA_PRODUCTION.md) to the reference image as well as the motion plan. Fix sleigh/team scale, paired order, functional connections, roof/chimney geography and Santa identity before animation. A correct still is a prerequisite, not evidence of correct flight. Do not apply these seasonal design requirements to other films.

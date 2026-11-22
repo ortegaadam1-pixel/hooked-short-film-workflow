@@ -100,3 +100,7 @@ Use only relevant fields. A prompt is not proof that object count, containment, 
 > Preserve [approved version, identities, references, picture/audio outside range]. Change only [observed defect and affected interval], allowing [necessary joins/tails]. Compare the new result with [source/version] for [specific regression]. Required final evidence: [motion/sound observation, measured properties, preservation comparison].
 
 For complete-film and disputed-defect review prompts, use [GEMINI_REVIEW.md](GEMINI_REVIEW.md). Name the exact uploaded artifact, current constraints and excerpt offset. Ask for evidence and uncertainty rather than a positive verdict.
+
+## Conditional Santa prompts — v2.4.1
+
+Only for Santa Claus image/video generation, use the reference, connected-flight and camera-pass templates in [SANTA_PRODUCTION.md](SANTA_PRODUCTION.md). Verify the reference's actual team count, paired arrangement, direction and harness before animation. Follow the observed motion rather than assuming the prompt succeeded. Do not add this module's seasonal details to unrelated prompts.

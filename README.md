@@ -1,4 +1,4 @@
-# Hooked Short Film Workflow — v2.4
+# Hooked Short Film Workflow — v2.4.1
 
 Current production instructions are on the default main branch. Start with [REVIEW.md](REVIEW.md) for revision history and evidence limits. The master instructions are [SYSTEM_PROMPT.md](SYSTEM_PROMPT.md).
 
@@ -17,6 +17,10 @@ Default film invocation develops and presents a concrete blueprint before polish
 After the user authorizes production, continue from the selected blueprint rather than restarting or changing approved material silently. A request to review this workflow does not authorize media generation.
 
 The production path now includes directed narration, consistent design/acting references, phrase-to-picture timing, per-join inspection, a dedicated pacing pass, and a finished two-shot method test before bulk generation. The user's earlier Disney-quality benchmark remains an aspiration for that animated project, not a universal art style or a quality certification.
+
+## Conditional Santa module
+
+For Santa Claus image/video generation only, use [SANTA_PRODUCTION.md](SANTA_PRODUCTION.md), especially its eight-deer reference checks, connected flight, roof landing/takeoff and close-pass templates. Leave it inactive for other films; general craft remains in the core workflow.
 
 ## Documents
 
@@ -37,7 +41,7 @@ The production path now includes directed narration, consistent design/acting re
 - [REVIEW.md](REVIEW.md): review summary and actual paper stress-test results.
 - [CHANGELOG.md](CHANGELOG.md): version history.
 
-Status: v2.4 is the current documented workflow. It retains the smooth-editing standard and adds general lessons from iterative production, correction and Gemini-assisted diagnostics. Those experiences inform craft recommendations; they do not validate the whole workflow, establish audience outcomes, or prove uninterrupted audiovisual review. This is not official VideoExpress or Gemini documentation and does not guarantee virality.
+Status: v2.4.1 is the current documented workflow. It retains the smooth-editing standard and adds general lessons from iterative production, correction and Gemini-assisted diagnostics. Those experiences inform craft recommendations; they do not validate the whole workflow, establish audience outcomes, or prove uninterrupted audiovisual review. This is not official VideoExpress or Gemini documentation and does not guarantee virality.
 
 ## Film craft and independent review
 

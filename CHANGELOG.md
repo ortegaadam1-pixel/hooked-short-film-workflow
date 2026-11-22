@@ -1,5 +1,14 @@
 # Changelog
 
+## 2.4.1 conditional Santa generation module — 2026-11-22
+
+- Added SANTA_PRODUCTION.md, active only for Santa Claus reference-image and video generation/correction; unrelated films retain the general workflow.
+- Covers approved identity/style, four-pair eight-deer geometry when required, functional harness/order, articulated flight, coherent turns and camera passes.
+- Adds forward angled rooftop arrivals, sequential contacts/settling, and forward departure from the same established roof.
+- Covers face-preserving close approaches, complete exits, story-required chimney/gift magic, audible cues and narration agreement.
+- Adds adaptable reference/motion/close-pass prompts and an acceptance record; integrates conditional links into the master, design, prompts, adapter and production template.
+- Preserves approved assets and distinguishes image correctness, motion review, sampled AI diagnostics and continuous sound-on acceptance. Documentation only; no footage generated or changed.
+
 ## 2.4 film craft, controlled revisions and Gemini review — 2026-11-22
 
 - Added FILM_CRAFT_AND_REVISIONS.md: readable hooks, connected motion, persistent world state, integrated effects, audible action, speech clarity, style consistency and focused corrections.

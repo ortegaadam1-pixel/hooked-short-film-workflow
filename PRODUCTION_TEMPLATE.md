@@ -1,4 +1,4 @@
-# Film record — v2.4
+# Film record — v2.4.1
 
 Version / date / scope / current step / next action:
 Original projects and exports preserved:
@@ -199,3 +199,17 @@ Reported method versus independently established method / actual audio access / 
 Recovery attempts and outcomes / remaining access limitations:
 AI audience-lens hypotheses (not actual viewer responses):
 Continuous normal-speed sound-on review status remains separate:
+
+## Conditional Santa image/video record — otherwise N/A
+
+Activate only for Santa Claus generation under [SANTA_PRODUCTION.md](SANTA_PRODUCTION.md).
+
+Approved Santa/voice/sleigh/sack/team references / medium / scale:
+Required deer count and paired arrangement / actual inspected reference count:
+Travel direction / who leads and follows / harness/rein connection:
+Flight gait and curve / roof architecture / sequential hoof and runner contacts:
+Takeoff from established location / forward order / independent lift:
+Close-pass face readability / complete exit / vocal timing and tail:
+Story-required chimney/gift/other magic / containment / persistent result:
+Shot and join defects / exact time ranges / repair / actual moving and sound review:
+Accepted assets preserved / Gemini diagnostic and producer resolution if used:

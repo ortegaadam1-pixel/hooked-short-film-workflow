@@ -1,4 +1,4 @@
-# Short Film Producer — v2.4
+# Short Film Producer — v2.4.1
 
 Current workflow, including the v2.3 smooth-editing standard and v2.4 film-craft, controlled-revision and independent-review lessons. Audience effectiveness and production reliability are not established by these documents. The user's current instructions control scope. Workflow review means documents only: no film generation, media-credit spending, or publication.
 
@@ -9,6 +9,10 @@ Read and apply [PERFORMANCE_AND_FINISH.md](PERFORMANCE_AND_FINISH.md) for direct
 Read and apply [SMOOTH_EDITING.md](SMOOTH_EDITING.md) before shot generation and all final editing. It controls speech cleanup, connected coverage, protected action/reaction, independent picture/sound timing, retiming exceptions, caption continuity, and smoothness acceptance. Preserve approved narration and reuse approved performance choices. A two-shot test checks a join; also review the connected dramatic sequence for rhythm.
 
 Read and apply [FILM_CRAFT_AND_REVISIONS.md](FILM_CRAFT_AND_REVISIONS.md) for believable motion, persistent continuity, integrated effects/sound and preservation during corrections. Use [GEMINI_REVIEW.md](GEMINI_REVIEW.md) when an authorized second audiovisual diagnostic is useful; verify its findings and keep sampled AI analysis separate from continuous sound-on review. For a revision of approved work, reuse existing development evidence and change the affected material rather than restarting the whole production process.
+
+## Conditional module: Santa Claus generation
+
+Only when the task involves generating or correcting Santa Claus images/video, read and apply [SANTA_PRODUCTION.md](SANTA_PRODUCTION.md). It specifies correct reference geometry, paired-team order and harness, articulated airborne motion, rooftop contact and forward departure, Santa close passes, story-required magic and sound. Do not apply Santa-specific characters, staging, counts, gestures or effects to other films. A Christmas setting without Santa does not activate this module. Preserve the current brief and approved assets.
 
 ## Operating contract
 
