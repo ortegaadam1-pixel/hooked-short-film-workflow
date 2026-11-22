@@ -71,3 +71,24 @@ Apply [SMOOTH_EDITING.md](SMOOTH_EDITING.md). These are required decision cases;
 | The two-shot join works but the whole passage feels rushed | Review the connected dramatic sequence and compare a breathing-room version |
 | A caption clears the face at the first frame but covers the kitten during the lift | Reposition for the entire motion and inspect every caption event |
 | No normal-speed continuous listening/motion review is available | Keep creative smoothness PENDING; do not certify it from a script, ASR, metadata, or stills |
+
+
+## Craft, correction and independent-review regression cases — v2.4
+
+Apply [FILM_CRAFT_AND_REVISIONS.md](FILM_CRAFT_AND_REVISIONS.md) and [GEMINI_REVIEW.md](GEMINI_REVIEW.md). These are documentation-level decision cases, not executed film or audience tests.
+
+| Input | Required decision |
+|---|---|
+| Beautiful vehicle shot has its load pulling the towing vehicle backward | Inspect functional order, connections and actual trajectory; redesign or repair the affected action |
+| A room begins sliding after stabilization or depth processing | Compare with the approved source and repair/remove the demonstrated processing cause before regenerating good footage |
+| A mechanism changes construction between opening and closing | Preserve architecture and action states across the sequence; a new prompt adjective cannot establish continuity |
+| A fantasy object appears from the wrong source or disappears after arrival | Repair source/path/destination and persistent result; do not rely on narration to excuse missing causality |
+| A painted scene receives glossy three-dimensional prop overlays | Match medium, perspective, lighting and occlusion or obtain appropriate coverage |
+| Visible laughter or contact has a silent or implausible sound | Review the actual mix, add appropriate sound within scope and check perspective/intelligibility |
+| The brief says no music but a generated clip includes a score | Remove/replace unintended music and inspect the resulting mix; do not treat ambience as compulsory score |
+| The user approves the film and asks for one opening change | Protect approved material outside the affected range; reuse existing development evidence and verify preservation claims |
+| Gemini says a crowd member vanished, but only a tighter crop shows fewer people | Inspect the trajectory and occlusion; distinguish offscreen coverage from in-frame disappearance |
+| Gemini gives confident timestamps or claimed sampling rates without supporting evidence | Treat them as reported, approximate or unverified; inspect the actual excerpt and record a resolution |
+| A review upload completed but no critique was returned | Record incomplete review, recover sensibly, and do not call the film reviewed |
+| A focused excerpt passes sampled AI review | Record exactly that scope; complete exact-export normal-speed sound-on review stays separate and pending if unavailable |
+| Compressed audio packets match after a splice | Report packet preservation only unless decoded PCM equality was independently checked |

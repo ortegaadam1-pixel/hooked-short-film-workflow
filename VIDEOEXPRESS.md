@@ -55,3 +55,10 @@ Apply [SMOOTH_EDITING.md](SMOOTH_EDITING.md). Check live support for independent
 Read the screen after consequential actions. If an element changes, inspect fresh state before trying another locator. If the browser session fails, reconnect and inspect actual saved state; never diagnose every automation failure as a permissions problem without evidence.
 
 On login, leave the tab open for the user. On terms or purchases, ask the user to complete the required step. Do not enter credentials or accept legal terms. If out of credits, preserve the plan and ledger before requesting a top-up. If playback is unavailable, separate technical completion from full sound-on review.
+
+
+## Corrections and external review — v2.4
+
+Apply [FILM_CRAFT_AND_REVISIONS.md](FILM_CRAFT_AND_REVISIONS.md). Reuse the exact approved starting image or actual consistency-reference slot as appropriate; library availability alone does not prove conditioning. Inspect generated count, functional order, harness/contact, face and background stability before accepting a moving clip. If a complex approach fails, use established wide coverage and a simpler close performance rather than regenerating accepted sequences. Confirm native dialogue is actually audible and contains no unintended music.
+
+Keep the existing film/project version recoverable. Use authorized local finishing when it can isolate a repair and preserve accepted material. Measure downloaded media rather than trusting malformed library duration labels. For an authorized independent audiovisual diagnostic, follow [GEMINI_REVIEW.md](GEMINI_REVIEW.md); Gemini is a separate review service, not an assumed VideoExpress capability. Completed generation and a review upload are separate from a completed critique and from final creative acceptance.

@@ -93,3 +93,10 @@ Include this package in the default development review. Under explicit autonomou
 ## Connected coverage and smooth rhythm
 
 Apply [SMOOTH_EDITING.md](SMOOTH_EDITING.md) during panel and motion planning. Keep a complete physical or emotional action in one shot when that reads best; a new narrated phrase does not require a new setup. Protect meaningful preparation, contact, consequence, and reaction. Specify matching action phases and focal positions for adjacent views, with usable editing handles when feasible. Plan the emotional breathing room in the rough sequence; do not rely on slowing clips, repeating frames, or adding dissolves later. Check the connected dramatic unit as well as the two-shot join.
+
+
+## Persistent world and practical coverage — v2.4
+
+Use [FILM_CRAFT_AND_REVISIONS.md](FILM_CRAFT_AND_REVISIONS.md) to plan functional connections, object count/state, architecture and mechanisms, effect containment and persistent consequences. Keep added props/effects in the same material language as the film. Starting-frame correctness does not prove the moving result.
+
+When complex group choreography compromises a face, contact or relationship, establish geography/count in a wide view and use motivated closer coverage for performance. Preserve enough evidence to explain offscreen action. Inspect composite backgrounds for sliding, resets and warping introduced by processing. An opening revision must also protect title readability and the transition into the accepted body; spectacle is an option, not a universal hook template.

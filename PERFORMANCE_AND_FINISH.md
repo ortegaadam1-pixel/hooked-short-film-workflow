@@ -1,8 +1,8 @@
-# Performance and finishing — v2.3
+# Performance and finishing — v2.4
 
 Required companion to [SYSTEM_PROMPT.md](SYSTEM_PROMPT.md), [VISUAL_DEVELOPMENT.md](VISUAL_DEVELOPMENT.md), and [PRODUCTION_TEMPLATE.md](PRODUCTION_TEMPLATE.md).
 
-Disney-quality craft is the user's benchmark for this animated film. It is an ambition, not a certification, rendering preset, prompt adjective, or demonstrated capability of this workflow. Apply the underlying storytelling, performance, continuity, and finish standards to every genre and medium; do not force Disney's visual treatment on other styles. These requirements are editorial recommendations informed by the sources in RESEARCH.md, not validated retention thresholds.
+When a brief requests Disney-quality or another studio-quality benchmark, treat it as an ambition, not a certification, rendering preset, prompt adjective, or demonstrated capability of this workflow. Apply the underlying storytelling, performance, continuity, and finish standards to every genre and medium; do not force Disney's visual treatment on other styles. These requirements are editorial recommendations informed by the sources in RESEARCH.md, not validated retention thresholds.
 
 Apply [SMOOTH_EDITING.md](SMOOTH_EDITING.md) as the mandatory execution detail for Sections 1, 3–7. Use its independent narration cleanup, native-speed assembly, connected action/reaction, sequence-level rhythm review, and caption checks. Reuse an approved voice/performance rather than repeating an audition without a demonstrated need.
 
@@ -74,3 +74,10 @@ Build appropriate synchronized physical effects and continuous ambience, and use
 Watch the exact export continuously at normal speed with sound, plus phone-size and muted checks for their separate purposes. Record timecoded findings for opening, sustained interest, acting, joins, picture/word timing, pacing, mix, visual consistency, and earned conclusion. Resolve material defects and rewatch the changed export before creative approval.
 
 A technically completed export with creative review incomplete is WORKING/REVIEW. Missing playback remains PENDING; sampled frames or a written checklist cannot replace it. Record who actually watched/listened and how; do not label agent self-review as human or fresh-viewer review. A Disney-quality target never becomes a proven result simply because this checklist was followed. Deliver the actual evidence and limitations, and keep publication separately authorized.
+
+
+## Film craft, corrections and a second reviewer — v2.4
+
+Apply [FILM_CRAFT_AND_REVISIONS.md](FILM_CRAFT_AND_REVISIONS.md) to the actual moving performance: connected forces/contacts, persistent identity and environment, effect source/path/result, style integration, credible reactions and sound perspective. Build the cue sheet from visible events and listen for masking; no-music constraints include generated source audio. Verify lip sync against the final supplied character recording rather than an earlier narration guide.
+
+For corrections, protect accepted scenes and identities, compare new processing against the approved source, and repair the demonstrated cause before regenerating footage. Use [GEMINI_REVIEW.md](GEMINI_REVIEW.md) for an authorized additional diagnostic when useful. Confirm or challenge its timecoded observations with the actual film. Record AI findings separately from the producer's verification, continuous normal-speed sound-on review and user approval.

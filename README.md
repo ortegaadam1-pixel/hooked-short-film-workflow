@@ -1,4 +1,4 @@
-# Hooked Short Film Workflow — v2.3
+# Hooked Short Film Workflow — v2.4
 
 Current production instructions are on the default main branch. Start with [REVIEW.md](REVIEW.md) for revision history and evidence limits. The master instructions are [SYSTEM_PROMPT.md](SYSTEM_PROMPT.md).
 
@@ -20,6 +20,9 @@ The production path now includes directed narration, consistent design/acting re
 
 ## Documents
 
+- [FILM_CRAFT_AND_REVISIONS.md](FILM_CRAFT_AND_REVISIONS.md): believable action, continuity, effects, sound and focused corrections that protect approved work.
+- [GEMINI_REVIEW.md](GEMINI_REVIEW.md): authorized second-review workflow, complete-film and focused prompts, evidence checks, failure recovery and honest access limits.
+
 - [SMOOTH_EDITING.md](SMOOTH_EDITING.md): required connected coverage, independent audio cleanup, native-speed action, sound bridges, rhythm comparison, caption continuity, and smoothness acceptance.
 - [PERFORMANCE_AND_FINISH.md](PERFORMANCE_AND_FINISH.md): required spoken performance, acting, continuity, pacing, two-shot method test, and audiovisual finish.
 - [SYSTEM_PROMPT.md](SYSTEM_PROMPT.md): controlling production sequence and scope.
@@ -34,8 +37,13 @@ The production path now includes directed narration, consistent design/acting re
 - [REVIEW.md](REVIEW.md): review summary and actual paper stress-test results.
 - [CHANGELOG.md](CHANGELOG.md): version history.
 
-Status: v2.3 is the current documented workflow, incorporating user feedback that the completed Christmas edit was acceptable but a little too choppy. The new smoothness procedure has document-level regression checks; it has not yet been demonstrated in a new film or validated by audience-performance data. This is not official VideoExpress documentation and does not guarantee virality.
+Status: v2.4 is the current documented workflow. It retains the smooth-editing standard and adds general lessons from iterative production, correction and Gemini-assisted diagnostics. Those experiences inform craft recommendations; they do not validate the whole workflow, establish audience outcomes, or prove uninterrupted audiovisual review. This is not official VideoExpress or Gemini documentation and does not guarantee virality.
+
+## Film craft and independent review
+
+Make actions and consequences believable, maintain identity and set/prop state, match sound to visible behavior, and protect accepted material during targeted changes. Gemini can help locate defects when authorized; treat its critique as evidence to investigate, not an unquestionable verdict or human viewer test. Keep exact-export technical checks, sampled diagnostics, continuous playback and user approval as separate records.
 
 ## Smoothness revision
 
 Clean unnatural speech pauses independently, then assemble complete actions at their intended native speed. Align the important event to the words without forcing every shot boundary onto a phrase. Use motivated cuts, supported sound bridges, and purposeful breathing room. Review the connected dramatic sequence and the exact export; extra effects and a faster cut count are not evidence of better retention. This update does not revise the completed Christmas film.
+

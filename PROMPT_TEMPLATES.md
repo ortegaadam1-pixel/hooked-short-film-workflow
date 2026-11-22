@@ -87,3 +87,16 @@ Image: “Tactile felt-puppet stop-motion, stitched seams, miniature painted set
 Video/audio: “S04 — The bell would expose him. Continue the supplied felt-puppet design with deliberate stop-motion timing. Eli begins lifting the bell, notices the shadow beneath the door, and stops before it rings. His paw tightens; his ears lower. Locked camera so the tiny decision remains readable. End with bell still on table beneath his right paw, eyes fixed screen right. Quiet fabric rustle, one approaching footstep, continuous room tone. No dialogue or music. No generated text.”
 
 This example uses tension through visible restraint. An energetic comedy would need a different performance and rhythm even with the same medium.
+
+
+## F. Physical and world-state contract
+
+> Source of motion/effect: [actor/object]. Functional connection and direction: [who leads/follows; attachment/contact]. Show [preparation → action/contact → consequence → response]. Keep [object quantity, ownership, location, condition, set geometry] stable. Effect originates at [source], travels through [path], ends at [destination], and leaves [persistent state]. Camera shows [evidence needed to understand the event]. Sound: [actual action cue and near/distant perspective]; protect [exact speech]. [No music when required.]
+
+Use only relevant fields. A prompt is not proof that object count, containment, sound or contact worked. If the result repeatedly fails, simplify choreography or redesign motivated coverage under FILM_CRAFT_AND_REVISIONS.md; do not merely append more negative instructions.
+
+## G. Correction scope and review handoff
+
+> Preserve [approved version, identities, references, picture/audio outside range]. Change only [observed defect and affected interval], allowing [necessary joins/tails]. Compare the new result with [source/version] for [specific regression]. Required final evidence: [motion/sound observation, measured properties, preservation comparison].
+
+For complete-film and disputed-defect review prompts, use [GEMINI_REVIEW.md](GEMINI_REVIEW.md). Name the exact uploaded artifact, current constraints and excerpt offset. Ask for evidence and uncertainty rather than a positive verdict.

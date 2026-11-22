@@ -1,6 +1,6 @@
-# Smooth editing — v2.3 production standard
+# Smooth editing — v2.4 production standard
 
-Required companion to [SYSTEM_PROMPT.md](SYSTEM_PROMPT.md), [PERFORMANCE_AND_FINISH.md](PERFORMANCE_AND_FINISH.md), and [PRODUCTION_TEMPLATE.md](PRODUCTION_TEMPLATE.md). Applies to every genre and art style. The current request changes future production instructions only; leave the completed Christmas film unchanged.
+Required companion to [SYSTEM_PROMPT.md](SYSTEM_PROMPT.md), [PERFORMANCE_AND_FINISH.md](PERFORMANCE_AND_FINISH.md), and [PRODUCTION_TEMPLATE.md](PRODUCTION_TEMPLATE.md). Applies to every genre and art style. This document governs future work within the current brief; a workflow update does not itself authorize changes to an existing film.
 
 **Goal: make the viewer follow the story and feel the performance without being distracted by the edit.** A hook needs a compelling event, not a quota of cuts. Keep urgency where the story needs it and room to breathe where meaning needs it. Deliberately abrupt horror, comedy, montage, or graphic animation is allowed when specified and observed to work; accidental choppiness is a defect.
 
@@ -108,3 +108,10 @@ Record the cleaned narration version, event anchors, candidate silence repairs a
 Adobe's continuity guidance supports action/eyeline/geography matching, and its split-edit guidance explains J/L audio overlaps. Disney's process description supports editorial shaping of rhythm with sound throughout production. The specific assembly order, coverage allowances, speed-change record, phrase-cleanup procedure, sequence-test range, and acceptance form above are our editorial recommendations. They have not been validated as a viral formula.
 
 Sources checked 2026-10-24: [Adobe — continuity editing](https://www.adobe.com/creativecloud/video/hub/ideas/what-is-continuity-editing-in-film.html); [Adobe — J and L cuts](https://helpx.adobe.com/premiere/desktop/edit-projects/trim-clips/perform-j-cuts-and-l-cuts.html); [Disney Animation — editorial and sound](https://www.disneyanimation.com/process/editorial--sound/). The Adobe split-edit page displays August 22, 2025 as its last update; the other two pages do not display a publication date in the retrieved content.
+
+
+## Controlled corrections and verification — v2.4
+
+Apply [FILM_CRAFT_AND_REVISIONS.md](FILM_CRAFT_AND_REVISIONS.md). Record the affected interval, protected material, neighboring joins and expected state changes before editing. Test whether a new composite, stabilization or reframing step caused the reported defect. Preserve the rest of the approved film and original audio where the requested correction permits it. Record file, packet, decoded-frame and PCM preservation claims at their actual verified level; matching packet data is not automatically proof of identical decoded samples.
+
+Use [GEMINI_REVIEW.md](GEMINI_REVIEW.md) when a second diagnostic is helpful and authorized. A focused excerpt needs a film offset and complete action handles. Recheck the repaired sequence and joins; keep a complete exact-export review pending until actually performed. Neither a sampled AI critique nor an old review of another export establishes continuous normal-speed sound-on acceptance.

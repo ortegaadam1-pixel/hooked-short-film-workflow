@@ -1,12 +1,14 @@
-# Short Film Producer — v2.3
+# Short Film Producer — v2.4
 
-Current workflow, including the v2.3 smooth-editing revision. Audience effectiveness and production reliability are not established by these documents. The user's current instructions control scope. Workflow review means documents only: no film generation, media-credit spending, or publication.
+Current workflow, including the v2.3 smooth-editing standard and v2.4 film-craft, controlled-revision and independent-review lessons. Audience effectiveness and production reliability are not established by these documents. The user's current instructions control scope. Workflow review means documents only: no film generation, media-credit spending, or publication.
 
 Read [STORY_TESTS.md](STORY_TESTS.md), [PROMPT_TEMPLATES.md](PROMPT_TEMPLATES.md), and [VIDEOEXPRESS.md](VIDEOEXPRESS.md). Record work in [PRODUCTION_TEMPLATE.md](PRODUCTION_TEMPLATE.md). See [REVIEW.md](REVIEW.md) for revision findings, [EXAMPLES.md](EXAMPLES.md) for genre adaptation, [RESEARCH.md](RESEARCH.md) for sources, and [AUDIENCE_LEARNING.md](AUDIENCE_LEARNING.md) for authorized post-release learning.
 
-Read and apply [PERFORMANCE_AND_FINISH.md](PERFORMANCE_AND_FINISH.md) for directed narration, acting/art references, phrase-to-picture timing, every-cut inspection, pacing, a finished two-shot method test, and final audiovisual acceptance. Disney-quality craft is the current film's benchmark, not a demonstrated result or a universal art style.
+Read and apply [PERFORMANCE_AND_FINISH.md](PERFORMANCE_AND_FINISH.md) for directed narration, acting/art references, phrase-to-picture timing, every-cut inspection, pacing, a finished two-shot method test, and final audiovisual acceptance. A studio-quality benchmark, when requested in the current brief, is a craft ambition rather than a demonstrated result or a universal art style.
 
 Read and apply [SMOOTH_EDITING.md](SMOOTH_EDITING.md) before shot generation and all final editing. It controls speech cleanup, connected coverage, protected action/reaction, independent picture/sound timing, retiming exceptions, caption continuity, and smoothness acceptance. Preserve approved narration and reuse approved performance choices. A two-shot test checks a join; also review the connected dramatic sequence for rhythm.
+
+Read and apply [FILM_CRAFT_AND_REVISIONS.md](FILM_CRAFT_AND_REVISIONS.md) for believable motion, persistent continuity, integrated effects/sound and preservation during corrections. Use [GEMINI_REVIEW.md](GEMINI_REVIEW.md) when an authorized second audiovisual diagnostic is useful; verify its findings and keep sampled AI analysis separate from continuous sound-on review. For a revision of approved work, reuse existing development evidence and change the affected material rather than restarting the whole production process.
 
 ## Operating contract
 
@@ -103,6 +105,8 @@ Apply PERFORMANCE_AND_FINISH.md's per-join record, phrase-to-picture checks, ded
 
 Export a separate review version. Watch that exact file continuously at normal speed with sound; also inspect phone-size and muted comprehension. If motion, audio, or uninterrupted playback cannot be assessed, keep the corresponding review PENDING. Sampled frames and metadata cannot approve suspense, pacing, narration, lip sync, or mix.
 
+Use the Gemini review procedure when an additional set of eyes/ears is necessary and available within authorization, especially for difficult or disputed defects. Record its exact artifact, completed response, access limitations and verified issue resolutions. If unavailable, continue other checks and report that limitation; never substitute a prompt submission or AI verdict for completed review.
+
 Creative review must record actual findings against the opening promise: audience interest, stakes, meaningful uncertainty, causality, performance, pace, audio, and earned payoff. Separately assess visual attraction, first-focus clarity, story-specific memorable imagery, visual progression, picture-led events, and the final visual payoff against VISUAL_DEVELOPMENT.md. A beautiful isolated frame is not proof that the sequence sustains visual interest. Investigate user-reported failures; do not cite the intended script as evidence the film succeeded.
 
 Technical review measures full export runtime, dimensions/ratio, playable media, completed status, and actual delivery link. Rounded labels are not precise runtime proof. Require less than 60 seconds with margin. Bind findings to the project version and exact export ID; changed exports need renewed review, including complete playback before approval.
@@ -112,3 +116,4 @@ Deliver title, review link, measured duration/format, concise changes, and unres
 ## 10. Learn from real results
 
 After authorized release, use [AUDIENCE_LEARNING.md](AUDIENCE_LEARNING.md). Define success and a comparable baseline, distinguish initial appeal from continued attention/satisfaction/sharing, inspect retention with the exact film, and test one specific revision hypothesis at a time. No guaranteed-viral claims, fabricated metric thresholds, unsolicited posting, or scheduled monitoring.
+

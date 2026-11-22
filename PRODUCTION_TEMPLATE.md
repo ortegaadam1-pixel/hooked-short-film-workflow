@@ -1,4 +1,4 @@
-# Film record — v2.3
+# Film record — v2.4
 
 Version / date / scope / current step / next action:
 Original projects and exports preserved:
@@ -163,3 +163,39 @@ Every-caption-event timing and moving-subject clearance findings:
 Complete last word / visible resolution / purposeful final release:
 Exact-export continuous sound-on reviewer / method / identifier / COMPLETE or PENDING:
 User feedback / scope of any next revision / existing film preserved:
+
+
+## Required craft and correction record — v2.4
+
+Apply [FILM_CRAFT_AND_REVISIONS.md](FILM_CRAFT_AND_REVISIONS.md).
+
+Functional motion / who initiates and follows / attachments / contact and weight:
+Set architecture and mechanisms / identity references / object count, ownership and persistent state:
+Effect source, path, destination, containment and result:
+Added-layer medium, light, perspective, occlusion and moving-boundary checks:
+
+| Visible event / time | Intended sound and perspective | Actual audible result / method | Speech masking or timing defect | Repair / recheck |
+|---|---|---|---|---|
+
+Approved source version/hash / requested correction / affected ranges and adjacent joins:
+Protected scripts, voices, references, scenes and sound / reason any accepted asset must change:
+New processing compared with approved source / demonstrated cause / repair:
+Preservation method / exact file, packet, decoded-frame or PCM comparison performed / limits:
+Changed sequence review / complete new export review / pending items (separate):
+
+## Gemini or other second audiovisual diagnostic
+
+Apply [GEMINI_REVIEW.md](GEMINI_REVIEW.md) when needed and available within authorization.
+
+Upload authorization and scope / service account surface / actual completed attachment and response:
+Exact export filename, hash/ID, runtime and audio/caption variant:
+Whole film or excerpt / film offset / constraints supplied:
+Prompt and completed response or error location (private):
+Reported method versus independently established method / actual audio access / unverified claims:
+
+| Version / time range | Reviewer claim and evidence | CONFIRMED / NOT REPRODUCED / INCORRECT-RETRACTED / UNRESOLVED | Producer verification method | Repair and actual recheck |
+|---|---|---|---|---|
+
+Recovery attempts and outcomes / remaining access limitations:
+AI audience-lens hypotheses (not actual viewer responses):
+Continuous normal-speed sound-on review status remains separate:

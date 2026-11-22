@@ -1,5 +1,15 @@
 # Changelog
 
+## 2.4 film craft, controlled revisions and Gemini review — 2026-11-22
+
+- Added FILM_CRAFT_AND_REVISIONS.md: readable hooks, connected motion, persistent world state, integrated effects, audible action, speech clarity, style consistency and focused corrections.
+- Added GEMINI_REVIEW.md: authorized exact-artifact uploads, full-film/targeted prompts, audience-lens caveats, disputed-finding verification, recovery and private evidence records.
+- Integrated both companions into the master, design, edit, prompt, adapter, finish, production record and regression cases.
+- Preserve approved work and investigate processing regressions before regenerating accepted footage. Distinguish file, packet and decoded-media equality.
+- AI review is supplementary and fallible; sampled frames, extracted sound, ASR and metadata never become a claim of continuous normal-speed watching.
+- Retained existing story, format/runtime defaults, production authorization boundaries and publication separation; current user briefs continue to control.
+- Documentation update only: no film generation/publication, no audience validation or virality guarantee.
+
 ## 2.3 smooth-editing standard — 2026-10-24
 
 - Added mandatory SMOOTH_EDITING.md across master, prompts, visual development, VideoExpress adapter, finish review, tests, and production record.
@@ -51,3 +61,4 @@
 - Replaced fixed shot math and blind trimming with story-driven timing and preserved performance.
 - Required a final runtime strictly below 60 seconds with explicit measurement limitations.
 - Historical status at initial creation: documentation reviewed; production validation pending. Subsequent Santa export completed technically but failed the user's creative review; v2 addresses those failures.
+
